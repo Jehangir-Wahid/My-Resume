@@ -91,7 +91,7 @@ Contributed as a web developer for developing the web self-care portal for the B
 | Backend | Frontend | Database |
 |:--------|:---------|:---------|
 |  API’s | HTML | MySQL |
-|  App Optimization    | CSS | SQL |
+|  App Optimization | CSS | SQL |
 |  Express.js | Bootstrap | MongoDB |
 |  Node.js | JavaScript | Database Optimization |
 |  Php | React | 
