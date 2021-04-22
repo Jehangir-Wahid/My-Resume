@@ -1,8 +1,15 @@
 
-| <img class="my-img" src="assets/images/my_img.png" width="210" /> | <span>&nbsp;</span> | <br /><br /><br /> Swat <br /> +92 332 948 1994 <br /> magnificentknight@gmail.com |
+<img class="my-img" src="assets/images/my_img.png" width="210" />
+
+<span>
+
+#### Swat
+#### +92 332 948 1994
+#### magnificentknight@gmail.com
 
 # Jehangir Wahid
 
+</span>
 <hr />
 
 Being an IT professional, I want to explore new technical scenarios and the skills applied practically to enhance my knowledge capacity that I want to spend in benefiting the concerned firm and to level myself according to the up-to-date technology market.<br /><br />
