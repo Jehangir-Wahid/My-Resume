@@ -11,13 +11,13 @@ Being an IT professional, I want to explore new technical scenarios and the skil
 #### React Native (MERN Stack) Experience
 Working on a cross platform mobile application, i.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
 
-<strong>&nbsp;o</strong> Developing a corss platform mobile application in React Native.<br />
-<strong>&nbsp;o</strong> Developing a secure backend using NodeJs and ExpressJs.<br />
-<strong>&nbsp;o</strong> Using Sentry for most sophisticated backend-error-handling.<br />
-<strong>&nbsp;o</strong> Designing and developing database in MongoDb.<br />
-<strong>&nbsp;o</strong> Maintaining the online project repositories using version control tool, i.e. Git.<br />
-<strong>&nbsp;o</strong> Setting up and configuration on Linux based servers.<br />
-<strong>&nbsp;o</strong> Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDb.<br /><br />
+<strong>&nbsp;o&nbsp;</strong> Developing a corss platform mobile application in React Native.<br />
+<strong>&nbsp;o&nbsp;</strong> Developing a secure backend using NodeJs and ExpressJs.<br />
+<strong>&nbsp;o&nbsp;</strong> Using Sentry for most sophisticated backend-error-handling.<br />
+<strong>&nbsp;o&nbsp;</strong> Designing and developing database in MongoDb.<br />
+<strong>&nbsp;o&nbsp;</strong> Maintaining the online project repositories using version control tool, i.e. Git.<br />
+<strong>&nbsp;o&nbsp;</strong> Setting up and configuration on Linux based servers.<br />
+<strong>&nbsp;o&nbsp;</strong> Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDb.<br /><br />
 
 ### Folio3 Softwares
 
@@ -25,13 +25,13 @@ Working on a cross platform mobile application, i.e. soon to be published on Pla
 
 Working on an ecommerce platform (Magento) for developing and maintaining the projects. I usually work myself on servers setting up, configuration, and deployments, while adopting optimistic approaches and taking security into account. I have summarized my responsibilities as follows: 
 
-- Providing support on different projects by maintaining the developed applications.
-- Discussion and proposal of new implementations.
-- Designing solutions for and developing new requirements.
-- Debugging and resolution of existing issues.
-- Maintaining the online project repositories using version control tool, like Git and Bitbucket.
-- Setting up, configuration, and deployments on Linux based servers.
-- Servers, database, and application optimizations to withstand with current and forecasted Traffic.<br /><br />
+<strong>&nbsp;o&nbsp;</strong> Providing support on different projects by maintaining the developed applications.
+<strong>&nbsp;o&nbsp;</strong> Discussion and proposal of new implementations.
+<strong>&nbsp;o&nbsp;</strong> Designing solutions for and developing new requirements.
+<strong>&nbsp;o&nbsp;</strong> Debugging and resolution of existing issues.
+<strong>&nbsp;o&nbsp;</strong> Maintaining the online project repositories using version control tool, like Git and Bitbucket.
+<strong>&nbsp;o&nbsp;</strong> Setting up, configuration, and deployments on Linux based servers.
+<strong>&nbsp;o&nbsp;</strong> Servers, database, and application optimizations to withstand with current and forecasted Traffic.<br /><br />
 
 ### Evamp & Saanga Pvt. Ltd
 
@@ -39,12 +39,12 @@ Working on an ecommerce platform (Magento) for developing and maintaining the pr
 
 Worked on several Self-care portals that are elaborated below in the Key Projects section. The following is the summary of my responsibilities: 
 
-- Providing support on different projects by maintaining the developed applications.
-- Discussion and proposal of new implementations.
-- Designing solutions for and developing new requirements.
-- Debugging and resolution of existing issues.
-- API’s maintenance and development, which were consumed on the App-Server, for the IOS and Android applications.
-- Review and optimization of existing web features and API’s according to the current and forecasted traffic.<br /><br />
+<strong>&nbsp;o&nbsp;</strong> Providing support on different projects by maintaining the developed applications.
+<strong>&nbsp;o&nbsp;</strong> Discussion and proposal of new implementations.
+<strong>&nbsp;o&nbsp;</strong> Designing solutions for and developing new requirements.
+<strong>&nbsp;o&nbsp;</strong> Debugging and resolution of existing issues.
+<strong>&nbsp;o&nbsp;</strong> API’s maintenance and development, which were consumed on the App-Server, for the IOS and Android applications.
+<strong>&nbsp;o&nbsp;</strong> Review and optimization of existing web features and API’s according to the current and forecasted traffic.<br /><br />
 
 ## Projects
 
@@ -56,10 +56,10 @@ Developed this web-application in Php's **Laravel** framework and frontend techn
 
 This is a complex project composed of four (4) sub projects, i.e., 4 different e-commerce applications, for a US based company. My contribution is maintaining the projects, developing new features, and server deployments to the following sub projects in Maravai Life Sciences. 
 
-- [Cygnus Technologies](https://www.cygnustechnologies.com/)
-- [Glen Research Vector Laboratories](https://www.glenresearch.com/)
-- [TriLink Biotechnologies](https://www.trilinkbiotech.com/)
-- [Vector Laboratories](https://vectorlabs.com/)
+<strong>&nbsp;o&nbsp;</strong> [Cygnus Technologies](https://www.cygnustechnologies.com/)
+<strong>&nbsp;o&nbsp;</strong> [Glen Research Vector Laboratories](https://www.glenresearch.com/)
+<strong>&nbsp;o&nbsp;</strong> [TriLink Biotechnologies](https://www.trilinkbiotech.com/)
+<strong>&nbsp;o&nbsp;</strong> [Vector Laboratories](https://vectorlabs.com/)
 
 #### [BIOSKIN HEALTH CARE](https://bioskin.com/)
 
