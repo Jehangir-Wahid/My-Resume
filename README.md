@@ -1,12 +1,11 @@
 <!--- <link rel="stylesheet" href="assets/css/style.css"> --->
+<img class="my-img" src="assets/images/my_img.png" width="150" />
+<br /><br />
+<div class="personal-details">
 
  #### Swat
  #### +92 332 948 1994
  #### magnificentknight@gmail.com
- 
-<img class="my-img" src="assets/images/my_img.png" width="150" />
-<br /><br />
-<div class="personal-details">
 
 </div>
 
