@@ -4,7 +4,7 @@
  #### +92 332 948 1994
  #### magnificentknight@gmail.com
 
-<hr />
+<!--- <hr /> --->
 
 # Jehangir Wahid
 
