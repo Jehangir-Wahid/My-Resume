@@ -13,15 +13,15 @@
 
 Being an IT professional, I want to explore new technical scenarios and the skills applied practically to enhance my knowledge capacity that I want to spend in benefiting the concerned firm and to level myself according to the up-to-date technology market.
 
-## Work Experience | ### React Native (MERN Stack) Experience
-| Working on a cross platform mobile application, I.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities: 
-| - Developing a corss platform mobile application in React Native.
-| - Developing a secure backend using NodeJs and ExpressJs.
-| - Using Sentry for most sophisticated backend-error-handling.
-| - Designing and developing database in MongoDb
-| - Maintaining the online project repositories using version control tool, I.e. Git.
-| - Setting up and configuration on Linux based servers.
-| - Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDb.<br /><br />
+| ## Work Experience | ### React Native (MERN Stack) Experience
+ | Working on a cross platform mobile application, I.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities: 
+ | - Developing a corss platform mobile application in React Native.
+ | - Developing a secure backend using NodeJs and ExpressJs.
+ | - Using Sentry for most sophisticated backend-error-handling.
+ | - Designing and developing database in MongoDb
+ | - Maintaining the online project repositories using version control tool, I.e. Git.
+ | - Setting up and configuration on Linux based servers.
+ | - Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDb.<br /><br />
 
 ### Folio3 Softwares 
 
