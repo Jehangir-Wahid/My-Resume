@@ -1,4 +1,7 @@
+
+
 <!--- <link rel="stylesheet" href="assets/css/style.css"> --->
+<!---
 <img class="my-img" src="assets/images/my_img.png" width="150" />
 <br /><br />
 <div class="personal-details">
@@ -208,3 +211,4 @@ Contributed as a web developer for developing the web self-care portal for the B
  </td>
 </tr>
 </table>
+--->
