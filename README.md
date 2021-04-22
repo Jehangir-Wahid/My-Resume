@@ -1,7 +1,7 @@
 
 <img class="my-img" src="assets/images/my_img.png" width="150" />
 
-<br /><br />
+<br />
 
 #### Swat
 #### +92 332 948 1994
