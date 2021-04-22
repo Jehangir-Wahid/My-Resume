@@ -13,7 +13,7 @@
 
 Being an IT professional, I want to explore new technical scenarios and the skills applied practically to enhance my knowledge capacity that I want to spend in benefiting the concerned firm and to level myself according to the up-to-date technology market.
 
-### Work Experience
+## Work Experience
 
 #### React Native (MERN Stack) Experience
 Working on a cross platform mobile application, I.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
@@ -24,11 +24,11 @@ Working on a cross platform mobile application, I.e. soon to be published on Pla
 - Designing and developing database in MongoDb
 - Maintaining the online project repositories using version control tool, I.e. Git.
 - Setting up and configuration on Linux based servers.
-- Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDb.
+- Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDb.<br /><br />
 
-#### Folio3 Softwares 
+### Folio3 Softwares
 
-##### Software Engineer E-Commerce (May 2019 – Present)
+#### Software Engineer E-Commerce (May 2019 – Present)
 
 Working on an ecommerce platform (Magento) for developing and maintaining the projects. I usually work myself on servers setting up, configuration, and deployments, while adopting optimistic approaches and taking security into account. I have summarized my responsibilities as follows: 
 
@@ -40,9 +40,9 @@ Working on an ecommerce platform (Magento) for developing and maintaining the pr
 - Setting up, configuration, and deployments on Linux based servers.
 - Servers, database, and application optimizations to withstand with current and forecasted Traffic.<br /><br />
 
-#### Evamp & Saanga Pvt. Ltd
+### Evamp & Saanga Pvt. Ltd
 
-##### Software Engineer (Dec 2016 – May 2019) 
+#### Software Engineer (Dec 2016 – May 2019) 
 
 Worked on several Self-care portals that are elaborated below in the Key Projects section. The following is the summary of my responsibilities: 
 
@@ -51,9 +51,9 @@ Worked on several Self-care portals that are elaborated below in the Key Project
 - Designing solutions for and developing new requirements.
 - Debugging and resolution of existing issues.
 - API’s maintenance and development, which were consumed on the App-Server, for the IOS and Android applications.
-- Review and optimization of existing web features and API’s according to the current and forecasted traffic.
+- Review and optimization of existing web features and API’s according to the current and forecasted traffic.<br /><br />
 
-### Projects
+## Projects
 
 #### [Ishout](http://www.ishout.ae/)
 
@@ -90,34 +90,28 @@ Contributed as a web developer for developing the web self-care portal for the B
 
 ## Skills
 
-| Backend | Frontend | Database |
-|:--------|:---------|:---------|
-|  - API’s | - HTML | MySQL |
-|  - App Optimization | CSS | SQL |
-|  - Express.js | Bootstrap | MongoDB |
+| Backend | Frontend | Database | Server | Code Versioniong | Mobile App Development |
+|:--------|:---------|:---------|:-------|:-----------------|:_______________________|
+|  - API’s | - HTML | MySQL | Linux | Git | React Native (MERN Stack) |
+|  - App Optimization | CSS | SQL | Server Configuration | Bitbucket |
+|  - Express.js | Bootstrap | MongoDB | Server Optimization |
 |  - Node.js | JavaScript | Database Optimization |
 |  - Php | React | 
 |  - Laravel | AJAX | 
 |  - Magento | jQuery | 
 |  - C# | Regular Expressions | 
 
-### Mobile App Development
-  - React Native
+| Server | Code Versioning | Mobile App Development |
+|:-------|:----------------|:-----------------------|
+| Linux | Git | React Native (MERN Stack) |
+| Server Configuration | Bitbucket |
+| Server Optimization |
 
-### Server
-  - Linux
-  - Server Configuration
-  - Server Optimization
-  
-  ### Code Versioning
-  - Git
-  - Bitbucket
-
-### Education
+## Education
 
 | Qualification | Year | Marks|
 |:--------------|:-----|:-----|
 | BACHELOR IN COMPUTER SCIENCE <br /> Iqra National University, Peshawar, Pakistan. | 2015 | 3.13 CGPA |
 
-### Languages
+## Languages
 English, Urdu, Pashto
