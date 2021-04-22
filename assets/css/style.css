@@ -1,0 +1,20 @@
+.tbl-resume {
+    width: 100%;
+}
+.first-col {
+    width: 15%;
+}
+
+.my-img {
+    float: left;
+}
+
+.personal-details {
+    margin-top: 10px;
+    float: right;
+    position: relative;
+}
+
+hr {
+    width: 100%
+}
