@@ -1,6 +1,8 @@
 
 | <img class="my-img" src="assets/images/my_img.png" width="210" /> | <span>&nbsp;</span> | <br /><br /><br /> Swat <br /> +92 332 948 1994 <br /> magnificentknight@gmail.com |
 
+# Jehangir Wahid
+
 <hr />
 
 Being an IT professional, I want to explore new technical scenarios and the skills applied practically to enhance my knowledge capacity that I want to spend in benefiting the concerned firm and to level myself according to the up-to-date technology market.<br /><br />
@@ -10,13 +12,13 @@ Being an IT professional, I want to explore new technical scenarios and the skil
 #### React Native (MERN Stack) Experience
 Working on a cross platform mobile application, i.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
 
-- Developing a corss platform mobile application in React Native.
-- Developing a secure backend using NodeJs and ExpressJs.
-- Using Sentry for most sophisticated backend-error-handling.
-- Designing and developing database in MongoDb
-- Maintaining the online project repositories using version control tool, i.e. Git.
-- Setting up and configuration on Linux based servers.
-- Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDb.<br /><br />
+o    Developing a corss platform mobile application in React Native.
+o    Developing a secure backend using NodeJs and ExpressJs.
+o    Using Sentry for most sophisticated backend-error-handling.
+o    Designing and developing database in MongoDb
+o    Maintaining the online project repositories using version control tool, i.e. Git.
+o    Setting up and configuration on Linux based servers.
+o    Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDb.<br /><br />
 
 ### Folio3 Softwares
 
