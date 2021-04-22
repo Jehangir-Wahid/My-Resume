@@ -48,7 +48,7 @@ Worked on several Self-care portals that are elaborated below in the Key Project
 
 ## Projects
 
-**[Ishout](http://www.ishout.ae/)**
+#### [Ishout](http://www.ishout.ae/)
 
 Developed this web-application in Php's **Laravel** framework and frontend technologies like Javascript, CSS, HTML etc.
   
