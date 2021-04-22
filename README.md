@@ -2,7 +2,7 @@
 
  #### Swat
  #### +92 332 948 1994
- #### magnificentknight@gmail.com
+ <!--- #### magnificentknight@gmail.com --->
 
 <!--- <hr /> --->
 
