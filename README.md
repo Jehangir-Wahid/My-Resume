@@ -117,8 +117,7 @@ Contributed as a web developer for developing the web self-care portal for the B
 
 | Qualification | Year | Marks|
 |:--------------|:-----|:-----|
-| BACHELOR IN COMPUTER SCIENCE | 2015 | 3.13 CGPA |
-| Iqra National University, Peshawar, Pakistan. | |
+| BACHELOR IN COMPUTER SCIENCE <br /> Iqra National University, Peshawar, Pakistan. | 2015 | 3.13 CGPA |
 
 ### Languages
 English, Urdu, Pashto
