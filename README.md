@@ -97,21 +97,24 @@ Contributed as a web developer for developing the web self-care portal for the B
 |  Php | React | 
 |  Laravel | AJAX | 
 |  Magento | jQuery | 
-|  C# | Regular Expressions | 
+|  C# | Regular Expressions |
+
 
 | Server | Code Versioning | Mobile App Development |
 |:-------|:----------------|:-----------------------|
 | Linux | Git | React Native (MERN Stack) |
 | Server Configuration | Bitbucket |
 | Server Optimization |
-<br /><br />
+
+<br />
 
 ## Education
 
 | Qualification | Year | Marks|
 |:--------------|:-----|:-----|
 | BACHELOR IN COMPUTER SCIENCE <br /> Iqra National University, Peshawar, Pakistan. | 2015 | 3.13 CGPA |
-<br /><br />
+
+<br />
 
 ## Languages
 English, Urdu, Pashto
