@@ -1,5 +1,8 @@
 # Header 1
 ## Header 2
+
+<img class="my-img" src="assets/images/my_img.png" width="150" />
+
 ### Header 3
 #### Header 4
 
