@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="assets/css/style.css">
+<!--- <link rel="stylesheet" href="assets/css/style.css"> --->
 <img class="my-img" src="assets/images/my_img.png" width="150" />
 <br /><br />
 <div class="personal-details">
