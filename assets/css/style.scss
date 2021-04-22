@@ -3,6 +3,9 @@
 
 @import "{{ site.theme }}";
 
+header {
+	display: none;
+}
 .my-img {
 	float: left;
 }
