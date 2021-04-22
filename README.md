@@ -3,12 +3,15 @@
 
 #### Swat
 
+<br />
 
 #### +92 332 948 1994
 
+<br />
 
 #### magnificentknight@gmail.com
 
+<br />
 
 # Jehangir Wahid
 
