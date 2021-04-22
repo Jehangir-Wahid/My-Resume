@@ -3,8 +3,8 @@
 <br /><br />
 <div class="personal-details">
 
- #### Swat<br />
- #### +92 332 948 1994<br />
+ #### Swat
+ #### +92 332 948 1994
  #### magnificentknight@gmail.com
 </div>
 
