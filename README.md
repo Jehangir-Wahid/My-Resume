@@ -9,18 +9,18 @@
 
 <hr />
 
-Being an IT professional, I want to explore new technical scenarios and the skills applied practically to enhance my knowledge capacity that I want to spend in benefiting the concerned firm and to level myself according to the up-to-date technology market.
+Being an IT professional, I want to explore new technical scenarios and the skills applied practically to enhance my knowledge capacity that I want to spend in benefiting the concerned firm and to level myself according to the up-to-date technology market.<br /><br />
 
 ## Work Experience
 
 #### React Native (MERN Stack) Experience
-Working on a cross platform mobile application, I.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
+Working on a cross platform mobile application, i.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
 
 - Developing a corss platform mobile application in React Native.
 - Developing a secure backend using NodeJs and ExpressJs.
 - Using Sentry for most sophisticated backend-error-handling.
 - Designing and developing database in MongoDb
-- Maintaining the online project repositories using version control tool, I.e. Git.
+- Maintaining the online project repositories using version control tool, i.e. Git.
 - Setting up and configuration on Linux based servers.
 - Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDb.<br /><br />
 
@@ -84,7 +84,7 @@ Contributed as a software engineer for developing web self-care portal for the B
 
 #### [Orion (Telenor Pakistan)](https://www.telenor.com.pk/) 
 
-Contributed as a web developer for developing the web self-care portal for the B2C users of Telenor Pakistan. The web portal was designed to support two languages i.e. Urdu and English. The responsibilities were to ensure delivery of a quality and optimized code. The implementation contained web development and backend APIs development for mobile applications (Android and iOS).
+Contributed as a web developer for developing the web self-care portal for the B2C users of Telenor Pakistan. The web portal was designed to support two languages i.e. Urdu and English. The responsibilities were to ensure delivery of a quality and optimized code. The implementation contained web development and backend APIs development for mobile applications (Android and iOS).<br /><br />
 
 ## Skills
 
@@ -105,11 +105,15 @@ Contributed as a web developer for developing the web self-care portal for the B
 | Server Configuration | Bitbucket |
 | Server Optimization |
 
+<br /><br />
+
 ## Education
 
 | Qualification | Year | Marks|
 |:--------------|:-----|:-----|
 | BACHELOR IN COMPUTER SCIENCE <br /> Iqra National University, Peshawar, Pakistan. | 2015 | 3.13 CGPA |
+
+<br /><br />
 
 ## Languages
 English, Urdu, Pashto
