@@ -90,16 +90,16 @@ Contributed as a web developer for developing the web self-care portal for the B
 
 ## Skills
 
-| Backend | Frontend | Database | Server | Code Versioniong | Mobile App Development |
-|:--------|:---------|:---------|:-------|:-----------------|:-----------------------|
-|  - API’s | - HTML | MySQL | Linux | Git | React Native (MERN Stack) |
-|  - App Optimization | CSS | SQL | Server Configuration | Bitbucket |
-|  - Express.js | Bootstrap | MongoDB | Server Optimization |
-|  - Node.js | JavaScript | Database Optimization |
-|  - Php | React | 
-|  - Laravel | AJAX | 
-|  - Magento | jQuery | 
-|  - C# | Regular Expressions | 
+| Backend | Frontend | Database |
+|:--------|:---------|:---------|
+|  API’s | HTML | MySQL |
+|  App Optimization | CSS | SQL |
+|  Express.js | Bootstrap | MongoDB |
+|  Node.js | JavaScript | Database Optimization |
+|  Php | React | 
+|  Laravel | AJAX | 
+|  Magento | jQuery | 
+|  C# | Regular Expressions | 
 
 | Server | Code Versioning | Mobile App Development |
 |:-------|:----------------|:-----------------------|
