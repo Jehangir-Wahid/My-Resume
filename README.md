@@ -1,6 +1,9 @@
+<div class="personal-details">
+
 #### abcd
 #### abcde
 
+</div>
 <img class="my-img" src="assets/images/my_img.png" width="150" />
 
 # Jehangir Wahid
