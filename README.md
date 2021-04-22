@@ -1,5 +1,5 @@
 
-<img class="my-img" src="assets/images/my_img.png" width="150" />
+| <img class="my-img" src="assets/images/my_img.png" width="150" /> | Swat <br /> +92 332 948 1994 <br /> magnificentknight@gmail.com |
 
 <br />
 
