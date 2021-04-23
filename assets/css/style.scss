@@ -17,9 +17,54 @@ hr {
 	width: 100%;
 }
 span {
-	margin-left: ???;
+	margin-left: 510px
 }
 strong {
 	color: #b5e853;
 }
-
+@media (max-width: 1024px) {
+	span {
+		margin-left: 430px;
+	}
+}
+@media (max-width: 968px) {
+	span {
+		margin-left: 375px;
+	}
+}
+@media (max-width: 892px) {
+	span {
+		margin-left: 305px;
+	}
+}
+@media (max-width: 768px) {
+	span {
+		margin-left: 193px;
+	}
+}
+@media (max-width: 668px) {
+	span {
+		margin-left: 103px;
+	}
+}
+@media (max-width: 568px) {
+	span {
+		margin-left: 13px;
+	}
+}
+@media (max-width: 468px) {
+	span {
+		margin-left: -10px;
+	}
+	.my_img {
+		max-width: 105px;
+	}
+}
+@media (max-width: 400px) {
+	span {
+		display: none;
+	}
+	.my_img {
+		display: none;
+	}
+}
