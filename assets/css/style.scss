@@ -29,6 +29,13 @@ a {
 th {
 	color: #b5e853;
 }
+code {
+	background: rgba(240,246,252,0.15);
+	color: #c9d1d9;
+	border-radius: 6px;
+	font-size: 0.85rem;
+	font-weight: 100;
+}
 @media (max-width: 1024px) {
 	span {
 		margin-left: 430px;
