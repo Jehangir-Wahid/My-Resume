@@ -4,9 +4,8 @@
 
 # Jehangir Wahid
 
-Being an IT professional, I want to explore new technical scenarios and the skills applied practically to enhance my knowledge capacity that I want to spend in benefiting the concerned firm and to level myself according to the up-to-date technology market.<br /><br />
-
 ## Work Experience
+> 5 years and counting.
 
 #### React Native (MERN Stack) Experience
 Working on a cross platform mobile application, i.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
@@ -85,14 +84,13 @@ Contributed as a web developer for developing the web self-care portal for the B
 
 | Backend | Frontend | Database |
 |:--------|:---------|:---------|
-|  API’s | HTML | MySQL |
-|  App Optimization | CSS | SQL |
-|  Express.js | Bootstrap | MongoDB |
-|  Node.js | JavaScript | Database Optimization |
-|  Php | React | 
-|  Laravel | AJAX | 
-|  Magento | jQuery | 
-|  C# | Regular Expressions |
+|  Node.js | JavaScript | MySQL |
+|  Magento | React | SQL |
+|  Laravel | AJAX | MongoDB |
+|  Express.js | HTML | Database Optimization |
+|  API’s | Regular Expressions | 
+|  App Optimization |
+|  C# |
 
 
 | Server | Code Versioning | Mobile App Development |
