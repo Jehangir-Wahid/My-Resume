@@ -52,7 +52,7 @@ Worked on several Self-care portals that are elaborated below in the Key Project
 
 Developed this web-application in Php's **Laravel** framework and frontend technologies like Javascript, CSS, HTML etc.
   
-##### Maravai Life Sciences 
+#### Maravai Life Sciences 
 
 This is a complex project composed of four (4) sub projects, i.e., 4 different e-commerce applications, for a US based company. My contribution is maintaining the projects, developing new features, and server deployments to the following sub projects in Maravai Life Sciences. 
 
