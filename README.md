@@ -61,7 +61,7 @@ This is a complex project composed of four (4) sub projects, i.e., 4 different e
 <strong>&nbsp;o&nbsp;</strong> [TriLink Biotechnologies](https://www.trilinkbiotech.com/)<br />
 <strong>&nbsp;o&nbsp;</strong> [Vector Laboratories](https://vectorlabs.com/)
 
-#### [BIOSKIN HEALTH CARE](https://bioskin.com/)
+#### [BioSkin Health Care](https://bioskin.com/)
 
 Contributed as a Software Engineer to this project by delivering optimized and secure features development and maintenance of the overall project. 
 
