@@ -4,8 +4,7 @@
 
 # Jehangir Wahid
 
-## Work Experience
-> Total 5 years and counting
+## Work Experience `5 years`
 
 #### React Native (MERN Stack) Experience
 Working on a cross platform mobile application, i.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
