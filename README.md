@@ -96,14 +96,14 @@ Contributed as a web developer for developing the web self-care portal for the B
 |:-------|:----------------|:-----------------------|
 | Linux | Git | React Native (MERN Stack) |
 | Server Configuration | Bitbucket |
-| Server Optimization <br /> |
+| Server Optimization <br />&nbsp; |
 
 
 ## Education
 
 | Qualification | Year | Marks|
 |:--------------|:-----|:-----|
-| BACHELOR IN COMPUTER SCIENCE <br /> Iqra National University, Peshawar, Pakistan. <br /> | 2015 | 3.13 CGPA |
+| BACHELOR IN COMPUTER SCIENCE <br /> Iqra National University, Peshawar, Pakistan. <br />&nbsp; | 2015 | 3.13 CGPA |
 
 
 ## Languages
