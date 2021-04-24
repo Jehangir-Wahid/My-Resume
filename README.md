@@ -83,31 +83,27 @@ Contributed as a web developer for developing the web self-care portal for the B
 
 | Backend | Frontend | Database |
 |:--------|:---------|:---------|
-|  Node.js | JavaScript | MySQL |
-|  Magento | React | SQL |
-|  Laravel | AJAX | MongoDB |
-|  Express.js | HTML | Database Optimization |
-|  API’s | Regular Expressions | 
-|  App Optimization |
-|  C# |
+| Node.js | JavaScript | MySQL |
+| Magento | React | SQL |
+| Laravel | AJAX | MongoDB |
+| Express.js | HTML | Database Optimization |
+| API’s | Regular Expressions | 
+| App Optimization |
+| C# |
 
 
 | Server | Code Versioning | Mobile App Development |
 |:-------|:----------------|:-----------------------|
 | Linux | Git | React Native (MERN Stack) |
 | Server Configuration | Bitbucket |
-| Server Optimization |
-
-
+| Server Optimization <br /> |
 
 
 ## Education
 
 | Qualification | Year | Marks|
 |:--------------|:-----|:-----|
-| BACHELOR IN COMPUTER SCIENCE <br /> Iqra National University, Peshawar, Pakistan. | 2015 | 3.13 CGPA |
-
-
+| BACHELOR IN COMPUTER SCIENCE <br /> Iqra National University, Peshawar, Pakistan. <br /> | 2015 | 3.13 CGPA |
 
 
 ## Languages
