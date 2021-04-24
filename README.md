@@ -98,7 +98,7 @@ Contributed as a web developer for developing the web self-care portal for the B
 | Server Configuration | Bitbucket |
 | Server Optimization |
 
-
+&nbsp;
 
 ## Education
 
@@ -106,7 +106,7 @@ Contributed as a web developer for developing the web self-care portal for the B
 |:--------------|:-----|:-----|
 | BACHELOR IN COMPUTER SCIENCE <br /> Iqra National University, Peshawar, Pakistan. | 2015 | 3.13 CGPA |
 
-
+&nbsp;
 
 ## Languages
 English, Urdu, Pashto
