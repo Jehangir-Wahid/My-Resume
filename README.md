@@ -4,9 +4,7 @@
 
 # Jehangir Wahid
 
-Being an IT professional, I want to explore new technical scenarios and the skills applied practically to enhance my knowledge capacity that I want to spend in benefiting the concerned firm and to level myself according to the up-to-date technology market.<br /><br />
-
-## Work Experience
+## Work Experience `5 years`
 
 #### React Native (MERN Stack) Experience
 Working on a cross platform mobile application, i.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
@@ -17,7 +15,7 @@ Working on a cross platform mobile application, i.e. soon to be published on Pla
 <strong>&nbsp;o&nbsp;</strong> Designing and developing database in MongoDb.<br />
 <strong>&nbsp;o&nbsp;</strong> Maintaining the online project repositories using version control tool, i.e. Git.<br />
 <strong>&nbsp;o&nbsp;</strong> Setting up and configuration on Linux based servers.<br />
-<strong>&nbsp;o&nbsp;</strong> Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDb.<br /><br />
+<strong>&nbsp;o&nbsp;</strong> Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDb.
 
 ### Folio3 Softwares
 
@@ -31,7 +29,7 @@ Working on an ecommerce platform (Magento) for developing and maintaining the pr
 <strong>&nbsp;o&nbsp;</strong> Debugging and resolution of existing issues.<br />
 <strong>&nbsp;o&nbsp;</strong> Maintaining the online project repositories using version control tool, like Git and Bitbucket.<br />
 <strong>&nbsp;o&nbsp;</strong> Setting up, configuration, and deployments on Linux based servers.<br />
-<strong>&nbsp;o&nbsp;</strong> Servers, database, and application optimizations to withstand with current and forecasted Traffic.<br /><br />
+<strong>&nbsp;o&nbsp;</strong> Servers, database, and application optimizations to withstand with current and forecasted Traffic.
 
 ### Evamp & Saanga Pvt. Ltd
 
@@ -44,7 +42,7 @@ Worked on several Self-care portals that are elaborated below in the Key Project
 <strong>&nbsp;o&nbsp;</strong> Designing solutions for and developing new requirements.<br />
 <strong>&nbsp;o&nbsp;</strong> Debugging and resolution of existing issues.<br />
 <strong>&nbsp;o&nbsp;</strong> API’s maintenance and development, which were consumed on the App-Server, for the IOS and Android applications.<br />
-<strong>&nbsp;o&nbsp;</strong> Review and optimization of existing web features and API’s according to the current and forecasted traffic.<br /><br />
+<strong>&nbsp;o&nbsp;</strong> Review and optimization of existing web features and API’s according to the current and forecasted traffic.
 
 ## Projects
 
@@ -79,21 +77,19 @@ Contributed as a software engineer for developing web self-care portal for the B
 
 #### [Orion (Telenor Pakistan)](https://www.telenor.com.pk/) 
 
-Contributed as a web developer for developing the web self-care portal for the B2C users of Telenor Pakistan. The web portal was designed to support two languages i.e. Urdu and English. The responsibilities were to ensure delivery of a quality and optimized code. The implementation contained web development and backend APIs development for mobile applications (Android and iOS).<br /><br />
+Contributed as a web developer for developing the web self-care portal for the B2C users of Telenor Pakistan. The web portal was designed to support two languages i.e. Urdu and English. The responsibilities were to ensure delivery of a quality and optimized code. The implementation contained web development and backend APIs development for mobile applications (Android and iOS).
 
 ## Skills
 
 | Backend | Frontend | Database |
 |:--------|:---------|:---------|
-|  API’s | HTML | MySQL |
-|  App Optimization | CSS | SQL |
-|  Express.js | Bootstrap | MongoDB |
-|  Node.js | JavaScript | Database Optimization |
-|  Php | React | 
-|  Laravel | AJAX | 
-|  Magento | jQuery | 
-|  C# | Regular Expressions |
-
+| Node.js | JavaScript | MySQL |
+| Magento | React | SQL |
+| Laravel | AJAX | MongoDB |
+| Express.js | HTML | Database Optimization |
+| API’s | Regular Expressions | 
+| App Optimization |
+| C# |
 
 | Server | Code Versioning | Mobile App Development |
 |:-------|:----------------|:-----------------------|
@@ -101,15 +97,11 @@ Contributed as a web developer for developing the web self-care portal for the B
 | Server Configuration | Bitbucket |
 | Server Optimization |
 
-<br />
-
 ## Education
 
 | Qualification | Year | Marks|
 |:--------------|:-----|:-----|
 | BACHELOR IN COMPUTER SCIENCE <br /> Iqra National University, Peshawar, Pakistan. | 2015 | 3.13 CGPA |
-
-<br />
 
 ## Languages
 English, Urdu, Pashto

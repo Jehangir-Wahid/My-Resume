@@ -19,6 +19,9 @@ hr {
 span {
 	margin-left: 510px
 }
+h2 {
+	margin-top: 50px;
+}
 strong {
 	color: #b5e853;
 }
@@ -28,6 +31,12 @@ a {
 }
 th {
 	color: #b5e853;
+}
+code {
+	background: rgba(240,246,252,0.15) !important;
+	color: #c9d1d9 !important;
+	font-size: 0.85rem;
+	font-weight: 100;
 }
 @media (max-width: 1024px) {
 	span {
