@@ -11,7 +11,7 @@
 #### React Native (MERN Stack) Experience
 Working on a cross platform mobile application, i.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
 
-<strong>&nbsp;o&nbsp;</strong> Developing a corss platform mobile application in React Native.<br />
+<strong>&nbsp;o&nbsp;</strong> Developing a cross platform mobile application in React Native.<br />
 <strong>&nbsp;o&nbsp;</strong> Developing a secure backend using NodeJs and ExpressJs.<br />
 <strong>&nbsp;o&nbsp;</strong> Using Sentry for most sophisticated backend-error-handling.<br />
 <strong>&nbsp;o&nbsp;</strong> Designing and developing database in MongoDb.<br />
