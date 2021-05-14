@@ -1,6 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
-| <img class="my-img" src="assets/images/my_img.png" width="210" /> | <span>&nbsp;</span> | <br /><br /><br /> Swat <br /> +92 332 948 1994 <br /> magnificentknight@gmail.com |
+| <img class="my-img" src="assets/images/my_img.png" width="210" /> | <span class="spacer-column">&nbsp;</span> | <br /><br /><br /> <span class="info">Swat</span> <br /> <span class="info">+92 332 948 1994</span> <br /> <span class="info">magnificentknight@gmail.com</span> |
 
 <hr />
 
