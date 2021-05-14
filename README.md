@@ -44,7 +44,7 @@ Worked on several Self-care portals that are elaborated below in the Key Project
 <strong>&nbsp;o&nbsp;</strong> Discussion and proposal of new implementations.<br />
 <strong>&nbsp;o&nbsp;</strong> Designing solutions for and developing new requirements.<br />
 <strong>&nbsp;o&nbsp;</strong> Debugging and resolution of existing issues.<br />
-<strong>&nbsp;o&nbsp;</strong> API’s maintenance and development, which were consumed on the App-Server, for the IOS and Android applications.<br />
+<strong>&nbsp;o&nbsp;</strong> API’s development and maintenance, which were consumed on the App-Server, for the IOS and Android applications.<br />
 <strong>&nbsp;o&nbsp;</strong> Review and optimization of existing web features and API’s according to the current and forecasted traffic.
 
 ## Projects
