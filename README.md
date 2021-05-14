@@ -14,17 +14,17 @@ Working on a cross platform mobile application, i.e. soon to be published on Pla
 
 <strong>&nbsp;o&nbsp;</strong> Developing a cross platform mobile application in React Native.<br />
 <strong>&nbsp;o&nbsp;</strong> Developing a secure backend using NodeJs and ExpressJs.<br />
-<strong>&nbsp;o&nbsp;</strong> Using Sentry for most sophisticated backend-error-handling.<br />
+<strong>&nbsp;o&nbsp;</strong> Using Sentry for most sophisticated backend-error-reporting.<br />
 <strong>&nbsp;o&nbsp;</strong> Designing and developing database in MongoDb.<br />
 <strong>&nbsp;o&nbsp;</strong> Maintaining the online project repositories using version control tool, i.e. Git.<br />
 <strong>&nbsp;o&nbsp;</strong> Setting up and configuration on Linux based servers.<br />
 <strong>&nbsp;o&nbsp;</strong> Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDb.
 
-### Folio3 Softwares
+### Folio3 Softwares Inc
 
 #### Software Engineer E-Commerce (May 2019 – Present)
 
-Working on an ecommerce platform (Magento) for developing and maintaining the projects. I usually work myself on servers setting up, configuration, and deployments, while adopting optimistic approaches and taking security into account. I have summarized my responsibilities as follows: 
+Working on an ecommerce platform **Magento** for developing and maintaining the projects. I usually work myself on servers' setting up, configuration, and deployments, while adopting optimistic approaches and taking security into account. The following is the summary of my responsibilities at Folio3 Softwares Inc: 
 
 <strong>&nbsp;o&nbsp;</strong> Providing support on different projects by maintaining the developed applications.<br />
 <strong>&nbsp;o&nbsp;</strong> Discussion and proposal of new implementations.<br />
@@ -32,7 +32,8 @@ Working on an ecommerce platform (Magento) for developing and maintaining the pr
 <strong>&nbsp;o&nbsp;</strong> Debugging and resolution of existing issues.<br />
 <strong>&nbsp;o&nbsp;</strong> Maintaining the online project repositories using version control tool, like Git and Bitbucket.<br />
 <strong>&nbsp;o&nbsp;</strong> Setting up, configuration, and deployments on Linux based servers.<br />
-<strong>&nbsp;o&nbsp;</strong> Servers, database, and application optimizations to withstand with current and forecasted Traffic.
+<strong>&nbsp;o&nbsp;</strong> Servers, database, and application optimizations to withstand with current and forecasted Traffic.<br />
+<strong>&nbsp;o&nbsp;</strong> Upgraded Magento from 2.1.0 to 2.3.2.
 
 ### Evamp & Saanga Pvt. Ltd
 
