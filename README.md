@@ -7,7 +7,7 @@
 # Jehangir Wahid
 
 ## Work Experience
-`5+ years`&nbsp; `Magento 4 years`&nbsp; `React Native 8 months`&nbsp; `Laravel 8 months`
+`6+ years`&nbsp; `Magento 4 years`&nbsp; `React Native 9 months`&nbsp; `Laravel 8 months`&nbsp; `C# 8 months`
 
 #### React Native (MERN Stack) Experience
 Working on a cross platform mobile application, i.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
@@ -82,6 +82,12 @@ Contributed as a software engineer for developing web self-care portal for the B
 #### [Orion (Telenor Pakistan)](https://www.telenor.com.pk/) 
 
 Contributed as a web developer for developing the web self-care portal for the B2C users of Telenor Pakistan. The web portal was designed to support two languages i.e. Urdu and English. The responsibilities were to ensure delivery of a quality and optimized code. The implementation contained web development and backend APIs development for mobile applications (Android and iOS).
+
+#### Focus Tours
+
+Contributed as a web developer for developing a web application for a tourism company at *Dubai, UAE*. Used **ASP.NET MVC with C#** as backend technology. This web application consisted of a *Fronted along with an Admin-panel*.
+
+*Note: This website is down, roundabout for the past 2 years, that's why didn't included the link.*
 
 ## Skills
 
