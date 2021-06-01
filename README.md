@@ -87,7 +87,7 @@ Contributed as a web developer for developing the web self-care portal for the B
 
 Contributed as a web developer for developing a web application for a tourism company at *Dubai, UAE*. Used **ASP.NET MVC with C#** as backend technology. This web application consisted of a *Fronted along with an Admin-panel*.
 
-*Note: This website is down, roundabout for the past 2 years, that's why didn't included the link.*
+*Note: This website is down, roundabout for the past 2 years, that's why didn't include the link.*
 
 ## Skills
 
