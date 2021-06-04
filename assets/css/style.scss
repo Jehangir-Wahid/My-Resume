@@ -48,37 +48,37 @@ code {
 }
 @media (max-width: 1024px) {
 	span {
-		margin-left: 430px;
+		margin-left: 210px !important;
 	}
 }
 @media (max-width: 968px) {
 	span {
-		margin-left: 375px;
+		margin-left: 190px !important;
 	}
 }
 @media (max-width: 892px) {
 	span {
-		margin-left: 305px;
+		margin-left: 160px !important;
 	}
 }
 @media (max-width: 768px) {
 	span {
-		margin-left: 193px;
+		margin-left: 105px !important;
 	}
 }
 @media (max-width: 668px) {
 	span {
-		margin-left: 103px;
+		margin-left: 60px !important;
 	}
 }
 @media (max-width: 568px) {
 	span {
-		margin-left: 13px;
+		margin-left: 15px !important;
 	}
 }
 @media (max-width: 468px) {
 	span {
-		margin-left: -10px;
+		margin-left: -10px !important;
 	}
 	.my-img {
 		max-width: 105px;
@@ -86,7 +86,7 @@ code {
 }
 @media (max-width: 400px) {
 	span {
-		display: none;
+		margin-left: -10px !important;
 	}
 	.my-img {
 		display: none;
