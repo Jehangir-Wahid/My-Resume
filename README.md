@@ -9,8 +9,11 @@
 ## Work Experience
 `6+ years`&nbsp; `Magento 4 years`&nbsp; `React Native 9 months`&nbsp; `Laravel 8 months`&nbsp; `C# 8 months`
 
-#### React Native (MERN Stack) Experience
-Working on a cross platform mobile application, i.e. soon to be published on Playstore/Appstore. Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
+### Inaequo Solutions
+
+#### Lead Software Engineer (March 2021 - Present)
+
+Working on a cross platform mobile application, i.e. soon to be published on Playstore/Appstore, using **MERN Stack** (React Native). Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
 
 <strong>&nbsp;o&nbsp;</strong> Developing a cross platform mobile application in React Native.<br />
 <strong>&nbsp;o&nbsp;</strong> Developing a secure backend using NodeJs and ExpressJs.<br />
@@ -22,7 +25,7 @@ Working on a cross platform mobile application, i.e. soon to be published on Pla
 
 ### Folio3 Softwares Inc
 
-#### Software Engineer E-Commerce (May 2019 – Present)
+#### Software Engineer E-Commerce (May 2019 – March 2021)
 
 Working on an ecommerce platform **Magento** for developing and maintaining the projects. I usually work myself on servers' setting up, configuration, and deployments, while adopting optimistic approaches and taking security into account. The following is the summary of my responsibilities at Folio3 Softwares Inc: 
 
@@ -39,7 +42,7 @@ Working on an ecommerce platform **Magento** for developing and maintaining the 
 
 #### Software Engineer (Dec 2016 – May 2019) 
 
-Worked on several Self-care portals that are elaborated below in the Key Projects section. The following is the summary of my responsibilities: 
+Worked on several Self-care portals using **Magento 1 & 2** that are elaborated below in the Key Projects section. The following is the summary of my responsibilities: 
 
 <strong>&nbsp;o&nbsp;</strong> Providing support on different projects by maintaining the developed applications.<br />
 <strong>&nbsp;o&nbsp;</strong> Discussion and proposal of new implementations.<br />
