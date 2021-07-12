@@ -7,7 +7,7 @@
 # Jehangir Wahid
 
 ## Work Experience
-`6+ years`&nbsp; `Magento 4 years`&nbsp; `React Native 9 months`&nbsp; `Laravel 8 months`&nbsp; `C# 8 months`
+`6+ years`&nbsp; `Magento 4 years`&nbsp; `React Native 10 months`&nbsp; `Laravel 9 months`&nbsp; `C# 8 months`
 
 ### Inaequo Solutions
 
