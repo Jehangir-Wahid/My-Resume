@@ -99,11 +99,11 @@ _Note: This website is down, for roundabout 2 years, that's why didn't include t
 | :--------------- | :------------------ | :-------------------- |
 | Node.js          | JavaScript          | MySQL                 |
 | Magento          | React               | SQL                   |
-| Laravel          | AJAX                | MongoDB               |
-| Express.js       | HTML                | Database Optimization |
-| API’s            | Regular Expressions |
-| App Optimization |
-| C#               |
+| Laravel          | TYpeScript          | MongoDB               |
+| Express.js       | AJAX                | Database Optimization |
+| API’s            | HTML                |
+| App Optimization | CSS                 |
+| C#               | Regular Expressions |
 
 | Server               | Code Versioning | Mobile App Development    |
 | :------------------- | :-------------- | :------------------------ |
