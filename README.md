@@ -8,7 +8,7 @@
 
 ## Work Experience
 
-`6+ years`&nbsp; `Magento 4 years`&nbsp; `React Native 10 months`&nbsp; `Laravel 9 months`&nbsp; `C# 8 months`
+I am an IT graduate having 6+ years in different technology stack. I have worked on multiple business industry mainly on e-commerce, cellular network and health care. I have major experience in E-commerce domain and have built couple of projects in `Magento` including both `frontend` and `backend plugins` development. In my recent projects I have worked on `React stack`, have sound experience in React JS and React Native including `MERN stack` and 3 rd party APIs.
 
 ### Inaequo Solutions
 
