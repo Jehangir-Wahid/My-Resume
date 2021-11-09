@@ -4,91 +4,93 @@
 @import "{{ site.theme }}";
 
 body {
-	font-size: 14px;
+  font-size: 14px;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 header {
-	display: none;
+  display: none;
 }
 .container {
-	margin-top: 20px;
+  margin-top: 20px;
 }
 .my-img {
-	float: left;
-	min-width: 145px;
+  float: left;
+  min-width: 145px;
 }
 hr {
-	width: 100%;
+  width: 100%;
 }
 .spacer-column {
-	margin-left: 510px
+  margin-left: 510px;
 }
 .info {
-	font-size: 16px;
+  font-size: 16px;
 }
 h2 {
-	margin-top: 50px;
+  margin-top: 50px;
 }
 strong {
-	color: #b5e853;
+  color: #b5e853;
 }
 a {
-	color: #b5e853;
-	text-shadow: 0 0 0px;
+  color: #b5e853;
+  text-shadow: 0 0 0px;
 }
 th {
-	color: #b5e853;
+  color: #b5e853;
 }
 code {
-	background: rgba(240,246,252,0.15) !important;
-	color: #c9d1d9 !important;
-	font-size: 0.85rem;
-	font-weight: 100;
-	border-radius: 5px !important;
+  background: rgba(240, 246, 252, 0.15) !important;
+  color: #c9d1d9 !important;
+  font-size: 0.85rem;
+  font-weight: 100;
+  border-radius: 5px !important;
 }
 @media (max-width: 1024px) {
-	span {
-		margin-left: 210px !important;
-	}
+  span {
+    margin-left: 210px !important;
+  }
 }
 @media (max-width: 968px) {
-	span {
-		margin-left: 190px !important;
-	}
+  span {
+    margin-left: 190px !important;
+  }
 }
 @media (max-width: 892px) {
-	span {
-		margin-left: 160px !important;
-	}
+  span {
+    margin-left: 160px !important;
+  }
 }
 @media (max-width: 768px) {
-	span {
-		margin-left: 105px !important;
-	}
+  span {
+    margin-left: 105px !important;
+  }
 }
 @media (max-width: 668px) {
-	span {
-		margin-left: 60px !important;
-	}
+  span {
+    margin-left: 60px !important;
+  }
 }
 @media (max-width: 568px) {
-	span {
-		margin-left: 15px !important;
-	}
+  span {
+    margin-left: 15px !important;
+  }
 }
 @media (max-width: 468px) {
-	span {
-		margin-left: -10px !important;
-	}
-	.my-img {
-		max-width: 105px;
-	}
+  span {
+    margin-left: -10px !important;
+  }
+  .my-img {
+    max-width: 105px;
+  }
 }
 @media (max-width: 400px) {
-	span {
-		margin-left: -65px !important;
-	}
-	.my-img {
-		display: none;
-	}
+  span {
+    margin-left: -65px !important;
+  }
+  .my-img {
+    display: none;
+  }
 }

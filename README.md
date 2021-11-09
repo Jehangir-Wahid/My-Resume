@@ -28,7 +28,7 @@ Working on a cross-platform mobile application, i.e. soon to be published on Pla
 
 #### Software Engineer E-Commerce (May 2019 – March 2021)
 
-Working on an eCommerce platform **Magento** for developing and maintaining the projects. I usually work myself on servers' setting up, configuration, and deployments, while adopting optimistic approaches and taking security into account. The following is the summary of my responsibilities at Folio3 Softwares Inc:
+Working on eCommerce platform **Magento** for developing and maintaining the projects. I usually work myself on servers' setting up, configuration, and deployments, while adopting optimistic approaches and taking security into account. The following is the summary of my responsibilities at Folio3 Softwares Inc:
 
 <strong>&nbsp;o&nbsp;</strong> Providing support on different projects by maintaining the developed applications.<br />
 <strong>&nbsp;o&nbsp;</strong> Discussion and proposal of new implementations.<br />
