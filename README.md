@@ -107,10 +107,14 @@ _Note: This website is down, for roundabout 2 years, that's why didn't include t
 
 | Server               | Code Versioning | Mobile App Development    |
 | :------------------- | :-------------- | :------------------------ |
-| Linux                | Git             | React Native (MERN Stack) |
+| Linux                | GitHub          | React Native (MERN Stack) |
 | Server Configuration | Bitbucket       |
-| Server Optimization  |
+| Server Optimization  | GitLab
 | Redis                |
+
+| Deployments |
+| :---------- |
+| Docker      |
 
 ## Education
 
