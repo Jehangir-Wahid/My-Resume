@@ -113,20 +113,20 @@ _Note: This website is down, for roundabout 2 years, that's why didn't include t
 | Laravel | TYpeScript | MongoDB |
 | Express.js | AJAX | Database Optimization |
 | API’s | HTML |
-| App Optimization &nbsp;&nbsp;&nbsp; | CSS |
+| App Optimization &nbsp;&nbsp;&nbsp;&nbsp; | CSS |
 | C# | Regular Expressions |
 | | Redux |
 
 | Server| Code Versioning | Mobile App Development |
 | :----- | :------------- | :--------------------- |
 | Linux                | GitHub | React Native (MERN Stack) |
-| Server Configuration | Bitbucket |
+| Server Configuration &nbsp; | Bitbucket |
 | Server Optimization  | GitLab |
 | Redis                | SVN |
 
 | Deployments | Project Tracking | |
 | :---------- | :--------------- | :--- |
-| Docker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jira |
+| Docker | Jira |
 | | Redmine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 ## Education
