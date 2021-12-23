@@ -30,8 +30,6 @@ I am leading and working on multiple projects, I.e., on multiple technologies li
 
 #### Software Engineer E-Commerce (May 2019 – March 2021)
 
-Working on eCommerce platform **Magento** for developing and maintaining the projects. I usually work myself on servers' setting up, configuration, and deployments, while adopting optimistic approaches and taking security into account. The following is the summary of my responsibilities at Folio3 Softwares Inc:
-
 I have worked on multiple technologies like **MERN Stack** and **Magento** for developing and maintaining projects, have major contributions to server configuration and code deployments while adopting optimistic approaches and taking security into account. The following is the summary of my responsibilities at Folio3 Softwares Inc:
 
 <strong>&nbsp;o&nbsp;</strong> Providing L3 support on different projects by maintaining the developed applications.<br />
@@ -48,8 +46,6 @@ I have worked on multiple technologies like **MERN Stack** and **Magento** for d
 ### Evamp & Saanga Pvt. Ltd
 
 #### Software Engineer (Dec 2016 – May 2019)
-
-Worked on several Self-care portals using  that are elaborated below in the Key Projects section.
 
 The company was providing services to one of the major mobile network providers in Pakistan. I have worked on several internal and external projects, which covers self-care portal for mobile users and some business-critical backend operations. The projects were mainly on **Magento 1 & 2**, **Laravel**, **React**, and **MERN Stack** The following is the summary of my responsibilities:
 
