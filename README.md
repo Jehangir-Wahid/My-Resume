@@ -14,15 +14,17 @@ I am an IT graduate having 6+ years in different technology stack. I have worked
 
 #### Lead Software Engineer (March 2021 - Present)
 
-Working on a cross-platform mobile application, i.e. soon to be published on Playstore/Appstore, using **MERN Stack** (React Native). Also worked on Google Maps Places API’s in Javascript. The following is the summary of my responsibilities:
+I am leading and working on multiple projects, I.e., on multiple technologies like **Magento**, **Laravel**, and **MERN Stack** (React and Reach Native) Also working on Google Maps Places API’s in JavaScript. The following is the summary of my responsibilities:
 
+<strong>&nbsp;o&nbsp;</strong> Developing frontend applications in React.<br />
 <strong>&nbsp;o&nbsp;</strong> Developing a cross-platform mobile application in React Native.<br />
-<strong>&nbsp;o&nbsp;</strong> Developing a secure backend using NodeJs and ExpressJs.<br />
+<strong>&nbsp;o&nbsp;</strong> Developing a secure backend using Larave, NodeJS, and ExpressJS.<br />
 <strong>&nbsp;o&nbsp;</strong> Using Sentry for most sophisticated backend-error-reporting.<br />
-<strong>&nbsp;o&nbsp;</strong> Designing and developing a database in MongoDD.<br />
-<strong>&nbsp;o&nbsp;</strong> Maintaining the online project repositories using version control tool, i.e. Git.<br />
+<strong>&nbsp;o&nbsp;</strong> Modeling databases in MongoDB, SQL, and MySQL.<br />
+<strong>&nbsp;o&nbsp;</strong> Maintaining the online project repositories using version control tool, i.e. GitHub, GitLab, Bitbucket.<br />
+<strong>&nbsp;o&nbsp;</strong> Project status tracking using Jira.<br />
 <strong>&nbsp;o&nbsp;</strong> Setting up and configuration on Linux-based servers.<br />
-<strong>&nbsp;o&nbsp;</strong> Working on Google Maps Places API’s in Javascript with NodeJs, ExpressJs, and MongoDB.
+<strong>&nbsp;o&nbsp;</strong> Working on Google Maps Places API’s in Javascript with NodeJS, ExpressJS, and MongoDB.
 
 ### Folio3 Softwares Inc
 
@@ -30,27 +32,36 @@ Working on a cross-platform mobile application, i.e. soon to be published on Pla
 
 Working on eCommerce platform **Magento** for developing and maintaining the projects. I usually work myself on servers' setting up, configuration, and deployments, while adopting optimistic approaches and taking security into account. The following is the summary of my responsibilities at Folio3 Softwares Inc:
 
-<strong>&nbsp;o&nbsp;</strong> Providing support on different projects by maintaining the developed applications.<br />
-<strong>&nbsp;o&nbsp;</strong> Discussion and proposal of new implementations.<br />
-<strong>&nbsp;o&nbsp;</strong> Designing solutions for and developing new requirements.<br />
+I have worked on multiple technologies like **MERN Stack** and **Magento** for developing and maintaining projects, have major contributions to server configuration and code deployments while adopting optimistic approaches and taking security into account. The following is the summary of my responsibilities at Folio3 Softwares Inc:
+
+<strong>&nbsp;o&nbsp;</strong> Providing L3 support on different projects by maintaining the developed applications.<br />
+<strong>&nbsp;o&nbsp;</strong> Active participation in proposals and new features implementation.<br />
+<strong>&nbsp;o&nbsp;</strong> Designing and developing new requirements.<br />
+<strong>&nbsp;o&nbsp;</strong> Developing and debugging React applications.<br />
 <strong>&nbsp;o&nbsp;</strong> Debugging and resolution of existing issues.<br />
-<strong>&nbsp;o&nbsp;</strong> Maintaining the online project repositories using version control tools, like Git and Bitbucket.<br />
-<strong>&nbsp;o&nbsp;</strong> Setting up, configuration, and deployments on Linux-based servers.<br />
+<strong>&nbsp;o&nbsp;</strong> Validating requests on frontend and Modifying frontend behavior in Vanilla JavaScript plus Regex.<br />
+<strong>&nbsp;o&nbsp;</strong> Maintaining online project repositories using Bitbucket.<br />
+<strong>&nbsp;o&nbsp;</strong> Configuration and deployments on Linux-based servers.<br />
 <strong>&nbsp;o&nbsp;</strong> Servers, database, and application optimizations to withstand current and forecasted traffic.<br />
-<strong>&nbsp;o&nbsp;</strong> Upgraded Magento from 2.1.0 to 2.3.2.
+<strong>&nbsp;o&nbsp;</strong> Upgraded Magento from 2.1.0 to 2.3.2.<br />
 
 ### Evamp & Saanga Pvt. Ltd
 
 #### Software Engineer (Dec 2016 – May 2019)
 
-Worked on several Self-care portals using **Magento 1 & 2** that are elaborated below in the Key Projects section. The following is the summary of my responsibilities:
+Worked on several Self-care portals using  that are elaborated below in the Key Projects section.
 
-<strong>&nbsp;o&nbsp;</strong> Providing support on different projects by maintaining the developed applications.<br />
+The company was providing services to one of the major mobile network providers in Pakistan. I have worked on several internal and external projects, which covers self-care portal for mobile users and some business-critical backend operations. The projects were mainly on **Magento 1 & 2**, **Laravel**, **React**, and **MERN Stack** The following is the summary of my responsibilities:
+
+<strong>&nbsp;o&nbsp;</strong> Providing L3 support on different projects by maintaining the developed applications.<br />
 <strong>&nbsp;o&nbsp;</strong> Discussion and proposal of new implementations.<br />
 <strong>&nbsp;o&nbsp;</strong> Designing solutions for and developing new requirements.<br />
 <strong>&nbsp;o&nbsp;</strong> Debugging and resolution of existing issues.<br />
-<strong>&nbsp;o&nbsp;</strong> API’s development and maintenance, which were consumed on the App-Server, for the IOS and Android applications.<br />
-<strong>&nbsp;o&nbsp;</strong> Review and optimization of existing web features and API’s according to the current and forecasted traffic.
+<strong>&nbsp;o&nbsp;</strong> API’s maintenance and development, which were consumed on the App-Server, for the IOS and Android applications.<br />
+<strong>&nbsp;o&nbsp;</strong> Review and optimization of existing web features and API’s according to the current and forecasted traffic.<br />
+
+During my career I have worked on multiple projects, targeting different users, from general public to
+administrative staff to support different internal business functions.
 
 ## Projects
 
@@ -104,17 +115,19 @@ _Note: This website is down, for roundabout 2 years, that's why didn't include t
 | API’s            | HTML                |
 | App Optimization | CSS                 |
 | C#               | Regular Expressions |
+| | Redux |
 
 | Server               | Code Versioning | Mobile App Development    |
 | :------------------- | :-------------- | :------------------------ |
 | Linux                | GitHub          | React Native (MERN Stack) |
 | Server Configuration | Bitbucket       |
-| Server Optimization  | GitLab
-| Redis                |
+| Server Optimization  | GitLab |
+| Redis                | SVN |
 
-| Deployments |
-| :---------- |
-| Docker      |
+| Deployments | Project Tracking |
+| :---------- | :--------------- |
+| Docker      | Jira |
+| | Redmine |
 
 ## Education
 
