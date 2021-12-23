@@ -106,28 +106,28 @@ _Note: This website is down, for roundabout 2 years, that's why didn't include t
 
 ## Skills
 
-| Backend              | Frontend            | Database                  |
-| :------------------- | :------------------ | :------------------------ |
-| Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | JavaScript          | MySQL                 |
-| Magento          | React               | SQL                   |
-| Laravel          | TYpeScript          | MongoDB               |
-| Express.js       | AJAX                | Database Optimization |
-| API’s            | HTML                |
-| App Optimization | CSS                 |
-| C#               | Regular Expressions |
+| Backend | Frontend | Database |
+| :------ | :------- | :------- |
+| Node.js | JavaScript | MySQL |
+| Magento | React | SQL |
+| Laravel | TYpeScript | MongoDB |
+| Express.js | AJAX | Database Optimization |
+| API’s | HTML |
+| App Optimization &nbsp;&nbsp;&nbsp;&nbsp; | CSS |
+| C# | Regular Expressions |
 | | Redux |
 
-| Server               | Code Versioning     | Mobile App Development    |
-| :------------------- | :------------------ | :------------------------ |
+| Server| Code Versioning | Mobile App Development |
+| :----- | :------------- | :--------------------- |
 | Linux                | GitHub | React Native (MERN Stack) |
-| Server Configuration | Bitbucket       |
+| Server Configuration | Bitbucket &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | Server Optimization  | GitLab |
 | Redis                | SVN |
 
-| Deployments          | Project Tracking |
-| :------------------- | :------------------ |
-| Docker               | Jira |
-| | Redmine |
+| Deployments | Project Tracking | |
+| :---------- | :--------------- | :--- |
+| Docker &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Jira |
+| | Redmine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 
 ## Education
 
