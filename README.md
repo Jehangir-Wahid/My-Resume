@@ -108,7 +108,7 @@ _Note: This website is down, for roundabout 2 years, that's why didn't include t
 
 | Backend              | Frontend            | Database                  |
 | :------------------- | :------------------ | :------------------------ |
-| Node.js              | JavaScript          | MySQL                 |
+| Node.js&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | JavaScript          | MySQL                 |
 | Magento          | React               | SQL                   |
 | Laravel          | TYpeScript          | MongoDB               |
 | Express.js       | AJAX                | Database Optimization |
