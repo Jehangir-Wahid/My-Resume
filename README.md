@@ -61,6 +61,10 @@ administrative staff to support different internal business functions.
 
 ## Projects
 
+#### [Oriental Spa](http://www.orientalspa.ae/)
+
+Developed this web application in Php's **Laravel** framework and frontend technologies like Javascript, CSS, HTML, etc. Now providing support for new features development and other maintenance of the project.
+
 #### [Ishout](http://www.ishout.ae/)
 
 Developed this web application in Php's **Laravel** framework and frontend technologies like Javascript, CSS, HTML, etc.
@@ -102,9 +106,9 @@ _Note: This website is down, for roundabout 2 years, that's why didn't include t
 
 ## Skills
 
-| Backend          | Frontend            | Database              |
-| :--------------- | :------------------ | :-------------------- |
-| Node.js          | JavaScript          | MySQL                 |
+| Backend              | Frontend            | Database                  |
+| :------------------- | :------------------ | :------------------------ |
+| Node.js              | JavaScript          | MySQL                 |
 | Magento          | React               | SQL                   |
 | Laravel          | TYpeScript          | MongoDB               |
 | Express.js       | AJAX                | Database Optimization |
@@ -113,16 +117,16 @@ _Note: This website is down, for roundabout 2 years, that's why didn't include t
 | C#               | Regular Expressions |
 | | Redux |
 
-| Server               | Code Versioning | Mobile App Development    |
-| :------------------- | :-------------- | :------------------------ |
-| Linux                | GitHub          | React Native (MERN Stack) |
+| Server               | Code Versioning     | Mobile App Development    |
+| :------------------- | :------------------ | :------------------------ |
+| Linux                | GitHub | React Native (MERN Stack) |
 | Server Configuration | Bitbucket       |
 | Server Optimization  | GitLab |
 | Redis                | SVN |
 
-| Deployments | Project Tracking |
-| :---------- | :--------------- |
-| Docker      | Jira |
+| Deployments          | Project Tracking |
+| :------------------- | :------------------ |
+| Docker               | Jira |
 | | Redmine |
 
 ## Education
