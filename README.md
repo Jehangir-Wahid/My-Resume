@@ -6,128 +6,130 @@
 
 # Jehangir Wahid
 
+## Overview
+
+I am a **Fullstack Developer**. An enthusiast of **continuous integration**, **test first** and **agile** environments. Have hefty **product development** experience and the ability to thrive in a **fast-paced environment**. Outstanding project and **program leader**; able to coordinate and **direct all phases** of project-based efforts while managing, motivating, and guiding teams. A **team player** with excellent people skills. I have worked in **many programming languages** and frameworks based on the needs of the project. I always follow below when it comes to programming, databases, architecture and optimization.
+
+<strong>&nbsp;●&nbsp;</strong> Always stick to technology-specific conventions in my code with focus on Design Patterns, Code Comments, Documentation and Use Case documents.<br />
+<strong>&nbsp;●&nbsp;</strong> In depth knowledge of databases, have worked on Relational (Flat and EAV Model), In Memory and Document Based databases.<br />
+<strong>&nbsp;●&nbsp;</strong> Knowledge of Unit Testing, Integration Testing, and Performance Testing.<br />
+<strong>&nbsp;●&nbsp;</strong> Sound knowledge of security threats, like Brute Forcing, Phishing, Man in the middle, Malicious Files upload, SQL Injection, DOS / DDOS and its corresponding solutions.<br />
+<strong>&nbsp;●&nbsp;</strong> Provide technical solutions, by choosing the right Language, Database and Workflow.<br />
+<strong>&nbsp;●&nbsp;</strong> Server Architecture designing/scaling according to the project/user traffic.<br />
+<strong>&nbsp;●&nbsp;</strong> Mentor and assist others, participate in code standards and lead code reviews focusing on performance, reliability and maintainability.<br />
+
+## Technical Proficiencies
+
+| Backend                                    | Frontend                                                        | Database              |
+| :----------------------------------------- | :-------------------------------------------------------------- | :-------------------- |
+| Node.js                                    | JavaScript **-** ES6+ **-** jQuery **-** AJAX                   | MySQL                 |
+| Magento **-** WordPress                    | React **-** Redux **-** React Testing Library                   | MariaDB               |
+| Php **-** Laravel                          | Vue **-** Vuex                                                  | SQL Server            |
+| Express.js                                 | TypeScript                                                      | MongoDB               |
+| C#                                         | Regular Expressions                                             | Database Optimization |
+| App Optimization &nbsp;&nbsp;&nbsp;&nbsp;  | HTML **-** CSS **-** CSS-in-JS **-** Styled Components          |
+| API’s **-** Web Services (Soap **/** Rest) | LESS **-** SCSS/SASS Bootstrap **-** Material UI **-** Tailwind |
+| Axios **-** Fetch **-** Curl               |
+
+| Server               | Code Versioning | Mobile App Development    |
+| :------------------- | :-------------- | :------------------------ |
+| Linux                | GitHub          | React Native (MERN Stack) |
+| Server Configuration | Bitbucket       |
+| Server Optimization  | GitLab          |
+| Redis                | SVN             |
+
+| Deployments         | Project Tracking | Cloud Services            |
+| :------------------ | :--------------- | :------------------------ |
+| Docker **-** Heroku | Jira             | Amazon Web Services (AWS) |
+| Bitbucket Pipelines | Redmine          | AWS S3 Bucket             |
+| GitHub **-** GitLab |                  | Lambda Functions          |
+| Linux               |
+
 ## Work Experience
 
-I am an IT graduate having 6+ years in different technology stack. I have worked on multiple business industry mainly on e-commerce, cellular network and health care. I have major experience in E-commerce domain and have built couple of projects in `Magento` including both `frontend` and `backend plugins` development. In my recent projects I have worked on `React stack`, have sound experience in React JS and React Native including `MERN stack` and 3 rd party APIs.
+### Lead Software Engineer
 
-### Inaequo Solutions
+#### Inaequo Solutions - Karachi, Pakistan
 
-#### Lead Software Engineer (March 2021 - Present)
+#### March 2021 - Present
 
-I am leading and working on multiple projects, I.e., on multiple technologies like **Magento**, **Laravel**, and **MERN Stack** (React and Reach Native) Also working on Google Maps Places API’s in JavaScript. The following is the summary of my responsibilities:
+<strong>&nbsp;●&nbsp;</strong> Designing solutions for and developing new requirements.<br />
+<strong>&nbsp;●&nbsp;</strong> Developing new features and fixing bugs in **React** and **TypeScript**.<br />
+<strong>&nbsp;●&nbsp;</strong> Using **React Testing Library** for testing components.<br />
+<strong>&nbsp;●&nbsp;</strong> Developing new features and fixing issues in **Vue** and **TypeScript**.<br />
+<strong>&nbsp;●&nbsp;</strong> Developing cross-platform mobile application in **React Native**.<br />
+<strong>&nbsp;●&nbsp;</strong> Using **Redux** and **Vuex** for state management.<br />
+<strong>&nbsp;●&nbsp;</strong> Developing a secure backend using **Laravel**, **NodeJS**, and **ExpressJS**.<br />
+<strong>&nbsp;●&nbsp;</strong> Using **Sentry** for most sophisticated backend-error-reporting.<br />
+<strong>&nbsp;●&nbsp;</strong> Implementing **Docker** for smooth deployments.<br />
+<strong>&nbsp;●&nbsp;</strong> Help teammates in building new features.<br />
+<strong>&nbsp;●&nbsp;</strong> Conducting daily standup meetings with the developers to follow up their day to day progress.<br />
+<strong>&nbsp;●&nbsp;</strong> Implementing **JIRA** and configuring it with existing projects to track the history of each task.<br />
+<strong>&nbsp;●&nbsp;</strong> Working on **Google Maps Places API** in Javascript with **NodeJS**, **ExpressJS**, and **MongoDB**.<br />
+<strong>&nbsp;●&nbsp;</strong> Conducting interviews for new hiring.<br />
 
-<strong>&nbsp;o&nbsp;</strong> Developing frontend applications in React.<br />
-<strong>&nbsp;o&nbsp;</strong> Developing a cross-platform mobile application in React Native.<br />
-<strong>&nbsp;o&nbsp;</strong> Developing a secure backend using Larave, NodeJS, and ExpressJS.<br />
-<strong>&nbsp;o&nbsp;</strong> Using Sentry for most sophisticated backend-error-reporting.<br />
-<strong>&nbsp;o&nbsp;</strong> Modeling databases in MongoDB, SQL, and MySQL.<br />
-<strong>&nbsp;o&nbsp;</strong> Maintaining the online project repositories using version control tool, i.e. GitHub, GitLab, Bitbucket.<br />
-<strong>&nbsp;o&nbsp;</strong> Project status tracking using Jira.<br />
-<strong>&nbsp;o&nbsp;</strong> Setting up and configuration on Linux-based servers.<br />
-<strong>&nbsp;o&nbsp;</strong> Working on Google Maps Places API’s in Javascript with NodeJS, ExpressJS, and MongoDB.
+### Software Engineer
 
-### Folio3 Softwares Inc
+#### Folio3 Softwares Inc - Lahore, Pakistan
 
-#### Software Engineer E-Commerce (May 2019 – March 2021)
+#### May 2019 - March 2021
 
-I have worked on multiple technologies like **MERN Stack** and **Magento** for developing and maintaining projects, have major contributions to server configuration and code deployments while adopting optimistic approaches and taking security into account. The following is the summary of my responsibilities at Folio3 Softwares Inc:
+<strong>&nbsp;●&nbsp;</strong> Actively participated in proposals and new features implementation.<br />
+<strong>&nbsp;●&nbsp;</strong> Designed and developed new requirements.<br />
+<strong>&nbsp;●&nbsp;</strong> Debugged and resolved existing issues.<br />
+<strong>&nbsp;●&nbsp;</strong> Developed new features of the existing admin **React** and **TypeScript**.<br />
+<strong>&nbsp;●&nbsp;</strong> Developed multiple projects using **Magento 2.3.x**.<br />
+<strong>&nbsp;●&nbsp;</strong> Used **Redux** for global state management and used reducers.<br />
+<strong>&nbsp;●&nbsp;</strong> Wrote test cases using **React Testing Library** and increased the code coverage upto 90%.<br />
+<strong>&nbsp;●&nbsp;</strong> Conducting interviews for hiring Frontend and Fullstack Engineers.<br />
+<strong>&nbsp;●&nbsp;</strong> **Code reviews** of teammates developers and mentoring them on best practices.<br />
+<strong>&nbsp;●&nbsp;</strong> Implemented generic validations on frontend in **Vanilla JavaScript** plus **Regex**.<br />
+<strong>&nbsp;●&nbsp;</strong> Rewrote the application's old JavaScript into **ES6+ modules**.<br />
+<strong>&nbsp;●&nbsp;</strong> Maintained online project repositories using **Bitbucket**, **GitHub**, and **GitLab**.<br />
+<strong>&nbsp;●&nbsp;</strong> Configuration and deployments on **Linux**-based servers.<br />
+<strong>&nbsp;●&nbsp;</strong> Servers, database, and application **optimizations** to withstand current and forecasted traffic.<br />
+<strong>&nbsp;●&nbsp;</strong> Upgraded **Magento** from 2.1.0 to 2.3.2.<br />
+<strong>&nbsp;●&nbsp;</strong> Developed new features in the company's web-portals using **WordPress**.<br />
+<strong>&nbsp;●&nbsp;</strong> Installed and ran two different versions of **Php** on the same **Ubuntu server** simultaneously to support two different projects, compatible with different versions of Php, to run both of them at a time.<br />
 
-<strong>&nbsp;o&nbsp;</strong> Providing L3 support on different projects by maintaining the developed applications.<br />
-<strong>&nbsp;o&nbsp;</strong> Active participation in proposals and new features implementation.<br />
-<strong>&nbsp;o&nbsp;</strong> Designing and developing new requirements.<br />
-<strong>&nbsp;o&nbsp;</strong> Developing and debugging React applications.<br />
-<strong>&nbsp;o&nbsp;</strong> Debugging and resolution of existing issues.<br />
-<strong>&nbsp;o&nbsp;</strong> Validating requests on frontend and Modifying frontend behavior in Vanilla JavaScript plus Regex.<br />
-<strong>&nbsp;o&nbsp;</strong> Maintaining online project repositories using Bitbucket.<br />
-<strong>&nbsp;o&nbsp;</strong> Configuration and deployments on Linux-based servers.<br />
-<strong>&nbsp;o&nbsp;</strong> Servers, database, and application optimizations to withstand current and forecasted traffic.<br />
-<strong>&nbsp;o&nbsp;</strong> Upgraded Magento from 2.1.0 to 2.3.2.<br />
+### Software Engineer
 
-### Evamp & Saanga Pvt. Ltd
+#### Evamp & Saanga - Islamabad, Pakistan
 
-#### Software Engineer (Dec 2016 – May 2019)
+#### December 2016 - May 2019
 
-The company was providing services to one of the major mobile network providers in Pakistan. I have worked on several internal and external projects, which covers self-care portal for mobile users and some business-critical backend operations. The projects were mainly on **Magento 1 & 2**, **Laravel**, **React**, and **MERN Stack** The following is the summary of my responsibilities:
+<strong>&nbsp;●&nbsp;</strong> Developed frontend application using **React**, **Material UI**.<br />
+<strong>&nbsp;●&nbsp;</strong> Developed client portal in **Vue**.<br />
+<strong>&nbsp;●&nbsp;</strong> Developed multiple projects using **Magento** 2.x and 1.x.<br />
+<strong>&nbsp;●&nbsp;</strong> Restructured and refactored frontend applications.<br />
+<strong>&nbsp;●&nbsp;</strong> Implemented user interactions and enhanced application’s user experience.<br />
+<strong>&nbsp;●&nbsp;</strong> Implemented **Content Security Policy** to make the application secure.<br />
+<strong>&nbsp;●&nbsp;</strong> Developed **reusable** components, plugins, libraries, and responsive interfaces.<br />
+<strong>&nbsp;●&nbsp;</strong> Implemented **SEO** techniques to **rank-up** apps on Google and other search engines.<br />
+<strong>&nbsp;●&nbsp;</strong> Integrated and implemented **Google Analytics** in a generic fashion.<br />
+<strong>&nbsp;●&nbsp;</strong> **Optimised** the application which increased the overall experience.<br />
+<strong>&nbsp;●&nbsp;</strong> Implemented **Database Caching** for optimising an API with a huge user traffic.<br />
+<strong>&nbsp;●&nbsp;</strong> Built an application from scratch using **Laravel**, **Vue**.<br />
+<strong>&nbsp;●&nbsp;</strong> Built APIs using **Node.js** for an existing system.<br />
+<strong>&nbsp;●&nbsp;</strong> **API’s** maintenance and development in **Magento**, which were consumed on the App-Server, for the IOS and Android applications.<br />
+<strong>&nbsp;●&nbsp;</strong> Optimised web features and API’s according to the current and forecasted traffic.<br />
 
-<strong>&nbsp;o&nbsp;</strong> Providing L3 support on different projects by maintaining the developed applications.<br />
-<strong>&nbsp;o&nbsp;</strong> Discussion and proposal of new implementations.<br />
-<strong>&nbsp;o&nbsp;</strong> Designing solutions for and developing new requirements.<br />
-<strong>&nbsp;o&nbsp;</strong> Debugging and resolution of existing issues.<br />
-<strong>&nbsp;o&nbsp;</strong> API’s maintenance and development, which were consumed on the App-Server, for the IOS and Android applications.<br />
-<strong>&nbsp;o&nbsp;</strong> Review and optimization of existing web features and API’s according to the current and forecasted traffic.<br />
+### Web Developer
 
-During my career I have worked on multiple projects, targeting different users, from general public to
-administrative staff to support different internal business functions.
+#### WEBSA Dubai - Dubai, United Arab Emirates
 
-## Projects
+#### August 2014 - September 2016
 
-#### [Oriental Spa](http://www.orientalspa.ae/)
-
-Developed this web application in Php's **Laravel** framework and frontend technologies like Javascript, CSS, HTML, etc. Now providing support for new features development and other maintenance of the project.
-
-#### [Ishout](http://www.ishout.ae/)
-
-Developed this web application in Php's **Laravel** framework and frontend technologies like Javascript, CSS, HTML, etc.
-
-#### Maravai Life Sciences
-
-This is a complex project composed of four (4) sub-projects, i.e., 4 different e-commerce applications, for a US-based company. My contribution is maintaining the projects, developing new features, and server deployments to the following sub-projects in Maravai Life Sciences.
-
-<strong>&nbsp;o&nbsp;</strong> [Cygnus Technologies](https://www.cygnustechnologies.com/)<br />
-<strong>&nbsp;o&nbsp;</strong> [Glen Research Vector Laboratories](https://www.glenresearch.com/)<br />
-<strong>&nbsp;o&nbsp;</strong> [TriLink Biotechnologies](https://www.trilinkbiotech.com/)<br />
-<strong>&nbsp;o&nbsp;</strong> [Vector Laboratories](https://vectorlabs.com/)
-
-#### [BioSkin Health Care](https://bioskin.com/)
-
-Contributed as a Software Engineer to this project by delivering optimized and secure features development and maintenance of the overall project.
-
-#### [DriCoper (DriCoper Denim)](https://dricoper.com.au/)
-
-Contributed as a technical lead for this Australian-based online garment store. The delivered services are upgrading the Magento application version, which included new server setup, configuration, deployments, and optimization. Development of new features and overhauling the existing features.
-
-#### [Jazz B2B Portal](https://businessworld.jazz.com.pk/)
-
-Contributed as a software engineer to the Jazz Business-to-Business portal and my responsibilities were solution designing, develop new features, and integration plus reporting and implementation of Google Analytics.
-
-#### [Korek Self Care Portal](https://www.korektel.com/)
-
-Contributed as a software engineer for developing a web self-care portal for the B2C users of KorekTel, Iraq. Maintained the three stores of the portal i.e. Kurdish, Arabic, and English, and developed new features according to the client requirements.
-
-#### [Orion (Telenor Pakistan)](https://www.telenor.com.pk/)
-
-Contributed as a web developer for developing the web self-care portal for the B2C users of Telenor Pakistan. The web portal was designed to support two languages i.e. Urdu and English. The responsibilities were to ensure delivery of quality and optimized code. The implementation contained web development and backend APIs development for mobile applications (Android and iOS).
-
-#### Focus Tours
-
-Contributed as a web developer for developing a web application for a tourism company in _Dubai, UAE_. Used **ASP.NET MVC with C#** as backend technology. This web application consisted of a _Fronted along with an Admin panel_.
-
-_Note: This website is down, for roundabout 2 years, that's why didn't include the link._
-
-## Skills
-
-| Backend | Frontend | Database |
-| :------ | :------- | :------- |
-| Node.js | JavaScript | MySQL |
-| Magento | React | SQL |
-| Laravel | TYpeScript | MongoDB |
-| Express.js | AJAX | Database Optimization |
-| API’s | HTML |
-| App Optimization &nbsp;&nbsp;&nbsp;&nbsp; | CSS |
-| C# | Regular Expressions |
-| | Redux |
-
-| Server| Code Versioning | Mobile App Development |
-| :----- | :------------- | :--------------------- |
-| Linux                | GitHub | React Native (MERN Stack) |
-| Server Configuration | Bitbucket |
-| Server Optimization  | GitLab |
-| Redis                | SVN |
-
-| Deployments | Project Tracking | |
-| :---------- | :--------------- | :--- |
-| Docker | Jira |
-| | Redmine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
+<strong>&nbsp;●&nbsp;</strong> Web development using **MVC** Architecture.<br />
+<strong>&nbsp;●&nbsp;</strong> Developed applications using **ASP.NET MVC** with **C#**, and **Vanilla Javascript**.<br />
+<strong>&nbsp;●&nbsp;</strong> Integrated **AngularJS** in an existing application built on **.NET Framework**.<br />
+<strong>&nbsp;●&nbsp;</strong> Rewrote the application admin, built on Razor Views, to support and integrate AngularJS.<br />
+<strong>&nbsp;●&nbsp;</strong> Developed **Desktop application** from the scratch in **.NET Framework - C#**.<br />
+<strong>&nbsp;●&nbsp;</strong> Developed application’s frontend using **Vanilla Javascript** and asynchronous server requests using **AJAX**.<br />
+<strong>&nbsp;●&nbsp;</strong> Produced animations with **jQuery**.<br />
+<strong>&nbsp;●&nbsp;</strong> Implemented reusable Frontend/Backend **validations** via **Regex**.<br />
+<strong>&nbsp;●&nbsp;</strong> Created mobile friendly interfaces with **Bootstrap**.<br />
+<strong>&nbsp;●&nbsp;</strong> Backend/Frontend **performance** tuning.<br />
 
 ## Education
 
@@ -138,3 +140,7 @@ _Note: This website is down, for roundabout 2 years, that's why didn't include t
 ## Languages
 
 English, Urdu, Pashto
+
+## References
+
+Will be furnished on demand.
