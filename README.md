@@ -10,13 +10,24 @@
 
 I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** environments. Have hefty product development experience and the ability to thrive in a **fast-paced** environment. Outstanding project and **program leader**; able to coordinate and **direct all phases** of project-based efforts while managing, motivating, and guiding teams. A **team player** with excellent people skills. I have worked in **many programming languages** and frameworks based on the needs of the project. I always follow below when it comes to programming, databases, architecture and optimization.
 
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Always stick to technology-specific conventions in my code with focus on **Design Patterns**, **Code Comments**, **Documentation** and Use **Case documents**<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;In depth knowledge of databases, have worked on **Relational (Flat and EAV Model), In Memory** and **Document Based** databases<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Knowledge of **Unit** Testing, Integration **Testing**, and **Performance** Testing<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Sound knowledge of security threats, like **Brute Forcing, Phishing, Man in the middle, Malicious Files** upload, **SQL Injection**, **DOS / DDOS** and its corresponding solutions<br />
+<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Always stick to technology-specific conventions in my code
+<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Focus on **Design Patterns**, **Code Comments**, **Documentation**<br />
+<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Worked in-depth on **Relational (Flat and EAV Model), In Memory** and **Document Based** databases<br />
+<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Knowledge of **Unit**, **Integration**, **Regression**, and **Performance** Testing<br />
+<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Sound knowledge of security threats and its corresponding solutions<br />
+
+<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;Brute Forcing<br />
+<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;Phishing<br />
+<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;Man in the middle<br />
+<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;Malicious Files upload<br />
+<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;SQL Injection<br />
+<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;DOS<br />
+<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;DDOS<br />
+
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Provide technical solutions, by choosing the right Language, Database and Workflow<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;**Server Architecture** designing/scaling according to the project/user traffic<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Mentor and assist others, participate in **code standards** and lead **code reviews** focusing on **performance**, **reliability** and **maintainability**<br />
+<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Mentor and assist others, participate in **code standards**
+<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Lead **code reviews** focusing on **performance**, **reliability** and **maintainability**<br />
 
 ## Technical Proficiencies
 
@@ -90,7 +101,7 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Servers, database, and application **optimizations** to withstand current and forecasted traffic.<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Upgraded **Magento** from 2.1.0 to 2.3.2.<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed new features in the company's web-portals using **WordPress**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Installed and ran two different versions of **Php** on the same **Ubuntu server** simultaneously to support two different projects, compatible with different versions of Php, to run both of them at a time.<br />
+<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Installed and ran two different versions of **Php** on same server simultaneously.<br />
 
 ### Software Engineer
 
@@ -111,7 +122,7 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Implemented **Database Caching** for optimising an API with a huge user traffic.<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Built an application from scratch using **Laravel**, **Vue**.<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Built APIs using **Node.js** for an existing system.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;**API’s** maintenance and development in **Magento**, which were consumed on the App-Server, for the IOS and Android applications.<br />
+<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;**API’s** maintenance and development in **Magento**, for the Web, IOS, and Android applications.<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Optimised web features and API’s according to the current and forecasted traffic.<br />
 
 ### Web Developer
@@ -125,7 +136,7 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Integrated **AngularJS** in an existing application built on **.NET Framework**.<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Rewrote the application admin, built on Razor Views, to support and integrate AngularJS.<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed **Desktop application** from the scratch in **.NET Framework - C#**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed application’s frontend using **Vanilla Javascript** and asynchronous server requests using **AJAX**.<br />
+<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed application’s frontend using **Vanilla Javascript** and **AJAX**.<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Produced animations with **jQuery**.<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Implemented reusable Frontend/Backend **validations** via **Regex**.<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Created mobile friendly interfaces with **Bootstrap**.<br />
