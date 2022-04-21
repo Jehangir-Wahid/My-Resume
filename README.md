@@ -144,3 +144,7 @@ English, Urdu, Pashto
 ## References
 
 Will be furnished on demand.
+
+<script>
+    const element = document.getElementsByTagName("UL").style.listStyleImage = "none"
+</script>
