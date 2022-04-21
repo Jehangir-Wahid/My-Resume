@@ -10,7 +10,7 @@
 
 I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** environments. Have hefty product development experience and the ability to thrive in a **fast-paced** environment. Outstanding project and **program leader**; able to coordinate and **direct all phases** of project-based efforts while managing, motivating, and guiding teams. A **team player** with excellent people skills. I have worked in **many programming languages** and frameworks based on the needs of the project. I always follow below when it comes to programming, databases, architecture and optimization.
 
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Always stick to technology-specific conventions in my code
+<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Always stick to technology-specific conventions in my code<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Focus on **Design Patterns**, **Code Comments**, **Documentation**<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Worked in-depth on **Relational (Flat and EAV Model), In Memory** and **Document Based** databases<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Knowledge of **Unit**, **Integration**, **Regression**, and **Performance** Testing<br />
@@ -26,7 +26,7 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Provide technical solutions, by choosing the right Language, Database and Workflow<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;**Server Architecture** designing/scaling according to the project/user traffic<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Mentor and assist others, participate in **code standards**
+<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Mentor and assist others, participate in **code standards**<br />
 <strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Lead **code reviews** focusing on **performance**, **reliability** and **maintainability**<br />
 
 ## Technical Proficiencies
