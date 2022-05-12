@@ -5,8 +5,6 @@
 
 body {
   font-size: 14px;
-  text-align: justify;
-  text-justify: inter-word;
 }
 
 header {
@@ -34,6 +32,9 @@ h2 {
 strong {
   color: #b5e853;
 }
+.bullet {
+  padding: 0px 20px 0px 10px;
+}
 ul li::marker {
   list-style-image: url("../images/li_marker_25x16_px.png");
 }
@@ -54,6 +55,12 @@ code {
 @media (max-width: 1024px) {
   span {
     margin-left: 210px !important;
+  }
+}
+@media (min-width: 969px) {
+  body {
+    text-align: justify;
+    text-justify: inter-word;
   }
 }
 @media (max-width: 968px) {
