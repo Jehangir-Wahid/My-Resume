@@ -10,24 +10,24 @@
 
 I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** environments. Have hefty product development experience and the ability to thrive in a **fast-paced** environment. Outstanding project and **program leader**; able to coordinate and **direct all phases** of project-based efforts while managing, motivating, and guiding teams. A **team player** with excellent people skills. I have worked in **many programming languages** and frameworks based on the needs of the project. I always follow below when it comes to programming, databases, architecture and optimization.
 
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Always stick to technology-specific conventions in my code<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Focus on **Design Patterns**, **Code Comments**, **Documentation**<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Worked in-depth on **Relational (Flat and EAV Model), In Memory** and **Document Based** databases<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Knowledge of **Unit**, **Integration**, **Regression**, and **Performance** Testing<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Sound knowledge of security threats and its corresponding solutions<br />
+<strong class="bullet">o</strong>Always stick to technology-specific conventions in my code<br />
+<strong class="bullet">o</strong>Focus on **Design Patterns**, **Code Comments**, **Documentation**<br />
+<strong class="bullet">o</strong>Worked in-depth on **Relational (Flat and EAV Model), In Memory** and **Document Based** databases<br />
+<strong class="bullet">o</strong>Knowledge of **Unit**, **Integration**, **Regression**, and **Performance** Testing<br />
+<strong class="bullet">o</strong>Sound knowledge of security threats and its corresponding solutions<br />
 
-<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;Brute Forcing<br />
-<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;Phishing<br />
-<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;Man in the middle<br />
-<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;Malicious Files upload<br />
-<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;SQL Injection<br />
-<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;DOS<br />
-<strong>&nbsp;&nbsp;&nbsp;•&nbsp;</strong> &nbsp;&nbsp;DDOS<br />
+<strong class="bullet">&nbsp;&nbsp;•</strong>Brute Forcing<br />
+<strong class="bullet">&nbsp;&nbsp;•</strong>Phishing<br />
+<strong class="bullet">&nbsp;&nbsp;•</strong>Man in the middle<br />
+<strong class="bullet">&nbsp;&nbsp;•</strong>Malicious Files upload<br />
+<strong class="bullet">&nbsp;&nbsp;•</strong>SQL Injection<br />
+<strong class="bullet">&nbsp;&nbsp;•</strong>DOS<br />
+<strong class="bullet">&nbsp;&nbsp;•</strong>DDOS<br />
 
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Provide technical solutions, by choosing the right Language, Database and Workflow<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;**Server Architecture** designing/scaling according to the project/user traffic<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Mentor and assist others, participate in **code standards**<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Lead **code reviews** focusing on **performance**, **reliability** and **maintainability**<br />
+<strong class="bullet">o</strong>Provide technical solutions, by choosing the right Language, Database and Workflow<br />
+<strong class="bullet">o</strong> **Server Architecture** designing/scaling according to the project/user traffic<br />
+<strong class="bullet">o</strong>Mentor and assist others, participate in **code standards**<br />
+<strong class="bullet">o</strong>Lead **code reviews** focusing on **performance**, **reliability** and **maintainability**<br />
 
 ## Technical Proficiencies
 
@@ -64,20 +64,20 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 
 #### March 2021 - Present
 
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Designing solutions for and developing new requirements.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developing new features and fixing bugs in **React** and **TypeScript**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Using **React Testing Library** for testing components.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developing new features and fixing issues in **Vue** and **TypeScript**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developing cross-platform mobile application in **React Native**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Using **Redux** and **Vuex** for state management.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developing a secure backend using **Laravel**, **NodeJS**, and **ExpressJS**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Using **Sentry** for most sophisticated backend-error-reporting.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Implementing **Docker** for smooth deployments.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Help teammates in building new features.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Conducting daily standup meetings with the developers to follow up their day to day progress.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Implementing **JIRA** and configuring it with existing projects to track the history of each task.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Working on **Google Maps Places API** in Javascript with **NodeJS**, **ExpressJS**, and **MongoDB**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Conducting interviews for new hiring.<br />
+<strong class="bullet">o</strong>Designing solutions for and developing new requirements.<br />
+<strong class="bullet">o</strong>Developing new features and fixing bugs in **React** and **TypeScript**.<br />
+<strong class="bullet">o</strong>Using **React Testing Library** for testing components.<br />
+<strong class="bullet">o</strong>Developing new features and fixing issues in **Vue** and **TypeScript**.<br />
+<strong class="bullet">o</strong>Developing cross-platform mobile application in **React Native**.<br />
+<strong class="bullet">o</strong>Using **Redux** and **Vuex** for state management.<br />
+<strong class="bullet">o</strong>Developing a secure backend using **Laravel**, **NodeJS**, and **ExpressJS**.<br />
+<strong class="bullet">o</strong>Using **Sentry** for most sophisticated backend-error-reporting.<br />
+<strong class="bullet">o</strong>Implementing **Docker** for smooth deployments.<br />
+<strong class="bullet">o</strong>Help teammates in building new features.<br />
+<strong class="bullet">o</strong>Conducting daily standup meetings with the developers to follow up their day to day progress.<br />
+<strong class="bullet">o</strong>Implementing **JIRA** and configuring it with existing projects to track the history of each task.<br />
+<strong class="bullet">o</strong>Working on **Google Maps Places API** in Javascript with **NodeJS**, **ExpressJS**, and **MongoDB**.<br />
+<strong class="bullet">o</strong>Conducting interviews for new hiring.<br />
 
 ### Software Engineer
 
@@ -85,23 +85,23 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 
 #### May 2019 - March 2021
 
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Actively participated in proposals and new features implementation.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Designed and developed new requirements.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Debugged and resolved existing issues.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed new features of the existing admin **React** and **TypeScript**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed multiple projects using **Magento 2.3.x**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Used **Redux** for global state management and used reducers.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Wrote test cases using **React Testing Library** and increased the code coverage upto 90%.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Conducting interviews for hiring Frontend and Fullstack Engineers.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;**Code reviews** of teammates developers and mentoring them on best practices.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Implemented generic validations on frontend in **Vanilla JavaScript** plus **Regex**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Rewrote the application's old JavaScript into **ES6+ modules**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Maintained online project repositories using **Bitbucket**, **GitHub**, and **GitLab**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Configuration and deployments on **Linux**-based servers.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Servers, database, and application **optimizations** to withstand current and forecasted traffic.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Upgraded **Magento** from 2.1.0 to 2.3.2.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed new features in the company's web-portals using **WordPress**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Installed and ran two different versions of **Php** on same server simultaneously.<br />
+<strong class="bullet">o</strong>Actively participated in proposals and new features implementation.<br />
+<strong class="bullet">o</strong>Designed and developed new requirements.<br />
+<strong class="bullet">o</strong>Debugged and resolved existing issues.<br />
+<strong class="bullet">o</strong>Developed new features of the existing admin **React** and **TypeScript**.<br />
+<strong class="bullet">o</strong>Developed multiple projects using **Magento 2.3.x**.<br />
+<strong class="bullet">o</strong>Used **Redux** for global state management and used reducers.<br />
+<strong class="bullet">o</strong>Wrote test cases using **React Testing Library** and increased the code coverage upto 90%.<br />
+<strong class="bullet">o</strong>Conducting interviews for hiring Frontend and Fullstack Engineers.<br />
+<strong class="bullet">o</strong> **Code reviews** of teammates developers and mentoring them on best practices.<br />
+<strong class="bullet">o</strong>Implemented generic validations on frontend in **Vanilla JavaScript** plus **Regex**.<br />
+<strong class="bullet">o</strong>Rewrote the application's old JavaScript into **ES6+ modules**.<br />
+<strong class="bullet">o</strong>Maintained online project repositories using **Bitbucket**, **GitHub**, and **GitLab**.<br />
+<strong class="bullet">o</strong>Configuration and deployments on **Linux**-based servers.<br />
+<strong class="bullet">o</strong>Servers, database, and application **optimizations** to withstand current and forecasted traffic.<br />
+<strong class="bullet">o</strong>Upgraded **Magento** from 2.1.0 to 2.3.2.<br />
+<strong class="bullet">o</strong>Developed new features in the company's web-portals using **WordPress**.<br />
+<strong class="bullet">o</strong>Installed and ran two different versions of **Php** on same server simultaneously.<br />
 
 ### Software Engineer
 
@@ -109,21 +109,21 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 
 #### December 2016 - May 2019
 
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed frontend application using **React**, **Material UI**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed client portal in **Vue**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed multiple projects using **Magento** 2.x and 1.x.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Restructured and refactored frontend applications.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Implemented user interactions and enhanced application’s user experience.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Implemented **Content Security Policy** to make the application secure.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed **reusable** components, plugins, libraries, and responsive interfaces.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Implemented **SEO** techniques to **rank-up** apps on Google and other search engines.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Integrated and implemented **Google Analytics** in a generic fashion.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;**Optimised** the application which increased the overall experience.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Implemented **Database Caching** for optimising an API with a huge user traffic.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Built an application from scratch using **Laravel**, **Vue**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Built APIs using **Node.js** for an existing system.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;**API’s** maintenance and development in **Magento**, for the Web, IOS, and Android applications.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Optimised web features and API’s according to the current and forecasted traffic.<br />
+<strong class="bullet">o</strong>Developed frontend application using **React**, **Material UI**.<br />
+<strong class="bullet">o</strong>Developed client portal in **Vue**.<br />
+<strong class="bullet">o</strong>Developed multiple projects using **Magento** 2.x and 1.x.<br />
+<strong class="bullet">o</strong>Restructured and refactored frontend applications.<br />
+<strong class="bullet">o</strong>Implemented user interactions and enhanced application’s user experience.<br />
+<strong class="bullet">o</strong>Implemented **Content Security Policy** to make the application secure.<br />
+<strong class="bullet">o</strong>Developed **reusable** components, plugins, libraries, and responsive interfaces.<br />
+<strong class="bullet">o</strong>Implemented **SEO** techniques to **rank-up** apps on Google and other search engines.<br />
+<strong class="bullet">o</strong>Integrated and implemented **Google Analytics** in a generic fashion.<br />
+<strong class="bullet">o</strong> **Optimised** the application which increased the overall experience.<br />
+<strong class="bullet">o</strong>Implemented **Database Caching** for optimising an API with a huge user traffic.<br />
+<strong class="bullet">o</strong>Built an application from scratch using **Laravel**, **Vue**.<br />
+<strong class="bullet">o</strong>Built APIs using **Node.js** for an existing system.<br />
+<strong class="bullet">o</strong> **API’s** maintenance and development in **Magento**, for the Web, IOS, and Android applications.<br />
+<strong class="bullet">o</strong>Optimised web features and API’s according to the current and forecasted traffic.<br />
 
 ### Web Developer
 
@@ -131,16 +131,16 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 
 #### August 2014 - September 2016
 
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Web development using **MVC** Architecture.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed applications using **ASP.NET MVC** with **C#**, and **Vanilla Javascript**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Integrated **AngularJS** in an existing application built on **.NET Framework**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Rewrote the application admin, built on Razor Views, to support and integrate AngularJS.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed **Desktop application** from the scratch in **.NET Framework - C#**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Developed application’s frontend using **Vanilla Javascript** and **AJAX**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Produced animations with **jQuery**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Implemented reusable Frontend/Backend **validations** via **Regex**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Created mobile friendly interfaces with **Bootstrap**.<br />
-<strong>&nbsp;o&nbsp;</strong> &nbsp;&nbsp;Backend/Frontend **performance** tuning.<br />
+<strong class="bullet">o</strong>Web development using **MVC** Architecture.<br />
+<strong class="bullet">o</strong>Developed applications using **ASP.NET MVC** with **C#**, and **Vanilla Javascript**.<br />
+<strong class="bullet">o</strong>Integrated **AngularJS** in an existing application built on **.NET Framework**.<br />
+<strong class="bullet">o</strong>Rewrote the application admin, built on Razor Views, to support and integrate AngularJS.<br />
+<strong class="bullet">o</strong>Developed **Desktop application** from the scratch in **.NET Framework - C#**.<br />
+<strong class="bullet">o</strong>Developed application’s frontend using **Vanilla Javascript** and **AJAX**.<br />
+<strong class="bullet">o</strong>Produced animations with **jQuery**.<br />
+<strong class="bullet">o</strong>Implemented reusable Frontend/Backend **validations** via **Regex**.<br />
+<strong class="bullet">o</strong>Created mobile friendly interfaces with **Bootstrap**.<br />
+<strong class="bullet">o</strong>Backend/Frontend **performance** tuning.<br />
 
 ## Education
 
