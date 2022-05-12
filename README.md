@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="shortcut icon" type="image/x-icon" href="/resume/assets/images/favicon.ico">
 
 | <img class="my-img" src="assets/images/my_img.png" width="210" /> | <span class="spacer-column">&nbsp;</span> | <br /><br /><br /> <span class="info">UAE</span> <br /> <span class="info">+971 50 717 8761</span> <br /> <span class="info">magnificentknight@gmail.com</span> |
 
