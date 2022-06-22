@@ -65,12 +65,13 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 #### May 2022 - Present
 
 <strong class="bullet">o</strong>Designing solutions for and developing new requirements.<br />
-<strong class="bullet">o</strong>Developing new features and fixing bugs in **Vue** and **TypeScript**.<br />
-<strong class="bullet">o</strong>Also using **Vue** & **Electron** for **Desktop** application development.<br />
+<strong class="bullet">o</strong>Developing new features and fixing bugs in **Vue** web applications.<br />
+<strong class="bullet">o</strong>Developing new features for **desktop** application, developed in **Vue** & **Electron**.<br />
 <strong class="bullet">o</strong>Developing new features and fixing issues in **Angular**.<br />
+<strong class="bullet">o</strong>Started to work on Flutter.<br />
 <strong class="bullet">o</strong>Using **Vuex** for state management.<br />
 <strong class="bullet">o</strong>Help teammates in building new features.<br />
-<strong class="bullet">o</strong>Using **ZenTao** to track the task-history.<br />
+<strong class="bullet">o</strong>Using **ZenTao** for project management.<br />
 
 ### Lead Software Engineer
 
