@@ -60,7 +60,7 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 
 ### Senior Frontend Engineer
 
-#### Light House Tech - Al Fujairah, UAE
+#### Light House Technology LLC - Al Fujairah, UAE
 
 #### May 2022 - Present
 
