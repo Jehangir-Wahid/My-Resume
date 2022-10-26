@@ -25,7 +25,7 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 <strong class="bullet">&nbsp;&nbsp;•</strong>DDOS<br />
 
 <strong class="bullet">o</strong>Provide technical solutions, by choosing the right Language, Database and Workflow<br />
-<strong class="bullet">o</strong> **Server Architecture** designing/scaling according to the project/user traffic<br />
+<strong class="bullet">o</strong>**Server Architecture** designing/scaling according to the project/user traffic<br />
 <strong class="bullet">o</strong>Mentor and assist others, participate in **code standards**<br />
 <strong class="bullet">o</strong>Lead **code reviews** focusing on **performance**, **reliability** and **maintainability**<br />
 
@@ -35,7 +35,7 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 | :----------------------------------------- | :-------------------------------------------------------------- | :-------------------- |
 | Node.js                                    | JavaScript **-** ES6+ **-** jQuery **-** AJAX                   | MySQL                 |
 | Magento **-** WordPress                    | React **-** Redux **-** React Testing Library                   | MariaDB               |
-| Php **-** Laravel                          | Vue **-** Vuex                                                  | SQL Server            |
+| Php **-** Laravel                          | Vue **-** Vuex **-** Electron                                   | SQL Server            |
 | Express.js                                 | TypeScript                                                      | MongoDB               |
 | C#                                         | Regular Expressions                                             | Database Optimization |
 | App Optimization &nbsp;&nbsp;&nbsp;&nbsp;  | HTML **-** CSS **-** CSS-in-JS **-** Styled Components          |
@@ -58,22 +58,27 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 
 ## Work Experience
 
-### Senior Frontend Engineer
+### Lead Software Engineer
 
-#### Light House Technology LLC - Al Fujairah, UAE
+#### Credit Investment Bank (CIB) - Dubai, UAE
 
 #### May 2022 - Present
 
-<strong class="bullet">o</strong>Designing solutions for and developing new requirements.<br />
-<strong class="bullet">o</strong>Developing new features and fixing bugs in **Vue** web applications.<br />
-<strong class="bullet">o</strong>Developing new features for **desktop** application, developed in **Vue** & **Electron**.<br />
-<strong class="bullet">o</strong>Developing new features and fixing issues in **Angular**.<br />
-<strong class="bullet">o</strong>Started to work on Flutter.<br />
-<strong class="bullet">o</strong>Using **Vuex** for state management.<br />
+<strong class="bullet">o</strong>Developing a bank management system using Laravel.<br />
+<strong class="bullet">o</strong>Developing API’s for mobile applications in Node & ExpressJS.<br />
+<strong class="bullet">o</strong>Developing Hybrid mobile applications in React Native.<br />
+<strong class="bullet">o</strong>Developing new features and fixing bugs in React and TypeScript.<br />
+<strong class="bullet">o</strong>Using React Testing Library for testing components.<br />
+<strong class="bullet">o</strong>Developing new features and fixing issues in Vue and TypeScript.<br />
+<strong class="bullet">o</strong>Developing new features for desktop application, developed in Vue & Electron.<br />
+<strong class="bullet">o</strong>Developing cross-platform mobile application in React Native.<br />
+<strong class="bullet">o</strong>Using Redux and Vuex for state management.<br />
+<strong class="bullet">o</strong>Using Sentry for the most sophisticated backend-error-reporting.<br />
+<strong class="bullet">o</strong>Configuring and maintaining AWS Cloud servers/EC2 instances.<br />
 <strong class="bullet">o</strong>Help teammates in building new features.<br />
-<strong class="bullet">o</strong>Using **ZenTao** for project management.<br />
+<strong class="bullet">o</strong>Conduct weekly meetings with other resources to follow up on their progress.<br />
 
-### Lead Software Engineer
+### Senior Software Engineer
 
 #### Inaequo Solutions - Karachi, Pakistan
 
