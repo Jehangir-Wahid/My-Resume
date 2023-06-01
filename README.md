@@ -24,7 +24,7 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 <strong class="bullet">&nbsp;&nbsp;•</strong>DOS<br />
 <strong class="bullet">&nbsp;&nbsp;•</strong>DDOS<br />
 
-<strong class="bullet">o</strong>Provide technical solutions, by choosing the right Language, Database and Workflow<br />
+<strong class="bullet">o</strong>Provide technical solutions, by choosing the right Technology, Database and Workflow<br />
 <strong class="bullet">o</strong> **Server Architecture** designing/scaling according to the project/user traffic<br />
 <strong class="bullet">o</strong>Mentor and assist others, participate in **code standards**<br />
 <strong class="bullet">o</strong>Lead **code reviews** focusing on **performance**, **reliability** and **maintainability**<br />
@@ -65,15 +65,13 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 #### May 2022 - Present
 
 <strong class="bullet">o</strong>Developing a bank management system using **Laravel**.<br />
-<strong class="bullet">o</strong>Developing API’s for mobile applications in **NodeJS**, and **ExpressJS**.<br />
-<strong class="bullet">o</strong>Developing **Hybrid** mobile applications in **React Native**.<br />
-<strong class="bullet">o</strong>Developing new features and fixing bugs in **React** and **TypeScript**.<br />
-<strong class="bullet">o</strong>Using **React Testing Library** for testing components.<br />
-<strong class="bullet">o</strong>Developing new features and fixing issues in **Vue** and **TypeScript**.<br />
-<strong class="bullet">o</strong>Developing new features for **desktop** application, developed in **Vue** & **Electron**.<br />
-<strong class="bullet">o</strong>Using **Redux** and **Vuex** for state management.<br />
+<strong class="bullet">o</strong>Developing and maintaining **Python** scripts for Backups.<br />
 <strong class="bullet">o</strong>Using **Sentry** for the most sophisticated backend-error-reporting.<br />
-<strong class="bullet">o</strong>Configuring and maintaining **AWS Cloud** servers/EC2 instances.<br />
+<strong class="bullet">o</strong>Configuring and maintaining **AWS Cloud** servers/EC2 instances, AWS S3, and AWS RDS.<br />
+<strong class="bullet">o</strong>Leading and mentoring team members.<br />
+<strong class="bullet">o</strong>Training team members.<br />
+<strong class="bullet">o</strong> **Code reviews** of teammates developers and mentoring them on best practices.<br />
+<strong class="bullet">o</strong>Conducting Scrum Meetings for daily updates.<br />
 <strong class="bullet">o</strong>Help teammates in building new features.<br />
 <strong class="bullet">o</strong>Conduct **weekly meetings** with other resources to follow up on their progress.<br />
 
