@@ -68,10 +68,10 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 <strong class="bullet">o</strong>Developing and maintaining **Python** scripts for Backups.<br />
 <strong class="bullet">o</strong>Using **Sentry** for the most sophisticated backend-error-reporting.<br />
 <strong class="bullet">o</strong>Configuring and maintaining **AWS Cloud** servers/EC2 instances, AWS S3, and AWS RDS.<br />
-<strong class="bullet">o</strong>Leading and mentoring team members.<br />
-<strong class="bullet">o</strong>Training team members.<br />
+<strong class="bullet">o</strong> **Leading** and **mentoring** team members.<br />
+<strong class="bullet">o</strong> **Training** team members.<br />
 <strong class="bullet">o</strong> **Code reviews** of teammates developers and mentoring them on best practices.<br />
-<strong class="bullet">o</strong>Conducting Scrum Meetings for daily updates.<br />
+<strong class="bullet">o</strong>Conducting **Scrum** Meetings for daily updates.<br />
 <strong class="bullet">o</strong>Help teammates in building new features.<br />
 <strong class="bullet">o</strong>Conduct **weekly meetings** with other resources to follow up on their progress.<br />
 
