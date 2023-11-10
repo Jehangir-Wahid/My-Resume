@@ -79,7 +79,7 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 
 #### Inaequo Solutions - Karachi, Pakistan
 
-#### March 2021 - Present
+#### March 2021 - April 2022
 
 <strong class="bullet">o</strong>Designing solutions for and developing new requirements.<br />
 <strong class="bullet">o</strong>Developing new features and fixing bugs in **React** and **TypeScript**.<br />
