@@ -8,7 +8,7 @@
 
 ## Overview
 
-I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** environments. Have hefty product development experience and the ability to thrive in a **fast-paced** environment. Outstanding project and **program leader**; able to coordinate and **direct all phases** of project-based efforts while managing, motivating, and guiding teams. A **team player** with excellent people skills. I have worked in **many programming languages** and frameworks based on the needs of the project. I always follow below when it comes to programming, databases, architecture and optimization.
+I am a **Lead Software Engineer**. An enthusiast of **test first** and **agile** environments. Have hefty product development experience and the ability to thrive in a **fast-paced** environment. Outstanding project and **program leader**; able to coordinate and **direct all phases** of project-based efforts while managing, motivating, and guiding teams. A **team player** with excellent people skills. I have worked in **many programming languages** and frameworks based on the needs of the project. I always follow below when it comes to programming, databases, architecture and optimization.
 
 <strong class="bullet">o</strong>Always stick to technology-specific conventions in my code<br />
 <strong class="bullet">o</strong>Focus on **Design Patterns**, **Code Comments**, **Documentation**<br />
@@ -47,14 +47,14 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 | Linux                | GitHub          | React Native (MERN Stack) |
 | Server Configuration | Bitbucket       |
 | Server Optimization  | GitLab          |
-| Redis                | SVN             |
+| Deployments          | SVN             |
 
-| Deployments         | Project Tracking | Cloud Services            |
-| :------------------ | :--------------- | :------------------------ |
-| Docker **-** Heroku | Jira             | Amazon Web Services (AWS) |
-| Bitbucket Pipelines | Redmine          | AWS S3 Bucket             |
-| GitHub **-** GitLab |                  | Lambda Functions          |
-| Linux               |
+| Deployments             | Project Tracking | Cloud Services            |
+| :---------------------- | :--------------- | :------------------------ |
+| Docker **-** Kubernetes | Jira             | Amazon Web Services (AWS) |
+| Bitbucket Pipelines     | Redmine          | AWS S3 Bucket             |
+| GitHub **-** GitLab     | Zen              | Lambda Functions          |
+| Linux                   |                  | Ali Baba Cloud            |
 
 ## Work Experience
 
@@ -64,22 +64,29 @@ I am a **Fullstack Engineer**. An enthusiast of **test first** and **agile** env
 
 #### May 2022 - Present
 
+<strong class="bullet">o</strong>Managing and maintaining **15+ Projects**.<br />
+<strong class="bullet">o</strong>Managing team and conducting regular **team training** sessions.<br />
+<strong class="bullet">o</strong>Conduct **daily scrum** & weekly meetings with other resources to follow up on their progress.<br />
+<strong class="bullet">o</strong>Designing solutions for and guiding the team.<br />
+<strong class="bullet">o</strong> **Reviewing** the team code & recommending best practices or enhancements.<br />
+<strong class="bullet">o</strong>Tracking the team's progress using **Jira**.<br />
+<strong class="bullet">o</strong>Architected and managed **Microservices** & **Monolithic** architectures.<br />
 <strong class="bullet">o</strong>Developing a bank management system using **Laravel**.<br />
-<strong class="bullet">o</strong>Developing and maintaining **Python** scripts for Backups.<br />
-<strong class="bullet">o</strong>Using **Sentry** for the most sophisticated backend-error-reporting.<br />
-<strong class="bullet">o</strong>Configuring and maintaining **AWS Cloud** servers/EC2 instances, AWS S3, and AWS RDS.<br />
-<strong class="bullet">o</strong> **Leading** and **mentoring** team members.<br />
-<strong class="bullet">o</strong> **Training** team members.<br />
-<strong class="bullet">o</strong> **Code reviews** of teammates developers and mentoring them on best practices.<br />
-<strong class="bullet">o</strong>Conducting **Scrum** Meetings for daily updates.<br />
-<strong class="bullet">o</strong>Help teammates in building new features.<br />
-<strong class="bullet">o</strong>Conduct **weekly meetings** with other resources to follow up on their progress.<br />
+<strong class="bullet">o</strong>Developing API’s for mobile applications in **NodeJS**, and **ExpressJS**.<br />
+<strong class="bullet">o</strong>Developing new features and fixing bugs in **React** with **Redux**.<br />
+<strong class="bullet">o</strong>Using **Sentry** for the most sophisticated backend error reporting.<br />
+<strong class="bullet">o</strong>Managing **DevOps** on **AWS** & **Ali Baba Cloud**.<br />
+<strong class="bullet">o</strong>Implementing **CI/CD** using **Docker** & **Kubernetes** for smooth deployments.<br />
+<strong class="bullet">o</strong>Integrated **AWS Rekognition Amplify** with the system for the users’ Liveness detection.<br />
+<strong class="bullet">o</strong>Integrated third-party tools like **WorldCheck** & **Sanctions.io** for improved **Due Diligence** and end-to-end **KYC** and **AML** measures.<br />
+<strong class="bullet">o</strong>Integrated third-party tool for **Prepaid ATM Cards** issuing and management.<br />
+<strong class="bullet">o</strong>Integrated **Crypto-Institute** & **Crypto-Exchange** for automating Crypto transactions.<br />
 
 ### Senior Software Engineer
 
 #### Inaequo Solutions - Karachi, Pakistan
 
-#### March 2021 - Present
+#### March 2021 - April 2022
 
 <strong class="bullet">o</strong>Designing solutions for and developing new requirements.<br />
 <strong class="bullet">o</strong>Developing new features and fixing bugs in **React** and **TypeScript**.<br />
