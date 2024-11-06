@@ -1,4 +1,4 @@
-<link rel="shortcut icon" type="image/x-icon" href="/resume/assets/images/favicon.ico">
+<link rel="icon" href="assets/images/favicon.ico">
 
 | <img class="my-img" src="assets/images/my_img.png" width="210" /> | <span class="spacer-column">&nbsp;</span> | <br /><br /><br /> <span class="info">Dubai, UAE</span> <br /> <span class="info">[+971 52 722 0861](tel:+971527220861)</span> <br /> <span class="info">[+92 332 948 1994](tel:+923329481994)</span> <br /> <span class="info">**[magnificentknight@gmail.com](mailto:magnificentknight@gmail.com)**</span> |
 
