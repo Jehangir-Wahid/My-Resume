@@ -179,6 +179,10 @@ English, Urdu, Pashto
 Will be furnished on demand.
 
 <script>
+    // document.addEventListener("DOMContentLoaded", function() {
+    //     const element = document.getElementsByTagName("UL").style.listStyleImage = "assets/images/li_marker_25x16_px.png"
+    // });
+
   const link = document.createElement('link');
   link.rel = 'icon';
   link.type = 'image/x-icon';
