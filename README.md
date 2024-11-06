@@ -80,7 +80,7 @@ I am a **Lead Software Engineer**. An enthusiast of **test first** and **agile**
 <strong class="bullet">o</strong>Integrated **AWS Rekognition Amplify** with the system for the users’ Liveness detection.<br />
 <strong class="bullet">o</strong>Integrated **WorldCheck** & **Sanctions.io** for improved **Due Diligence** and end-to-end **KYC** and **AML** measures.<br />
 <strong class="bullet">o</strong>Integrated **Viacarte** for **Prepaid ATM Cards** issuing and management.<br />
-<strong class="bullet">o</strong>Integrated **Crypto-Institute** & **Crypto-Exchange** for automating Crypto transactions.<br />
+<strong class="bullet">o</strong>Integrated **(Crypto-Institute)[https://www.bitpace.com/]** & **(Crypto-Exchange)[https://osl.com/]** for automating Crypto transactions.<br />
 
 ### Senior Software Engineer
 
