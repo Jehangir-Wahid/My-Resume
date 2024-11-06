@@ -1,5 +1,3 @@
-<link rel="icon" href="assets/images/favicon.ico">
-
 | <img class="my-img" src="assets/images/my_img.png" width="210" /> | <span class="spacer-column">&nbsp;</span> | <br /><br /><br /> <span class="info">Dubai, UAE</span> <br /> <span class="info">[+971 52 722 0861](tel:+971527220861)</span> <br /> <span class="info">[+92 332 948 1994](tel:+923329481994)</span> <br /> <span class="info">**[magnificentknight@gmail.com](mailto:magnificentknight@gmail.com)**</span> |
 
 <hr />
@@ -181,12 +179,10 @@ English, Urdu, Pashto
 Will be furnished on demand.
 
 <script>
-  // Create a new link element
   const link = document.createElement('link');
-  link.rel = 'icon'; // Set rel to "icon" to specify it's a favicon
-  link.type = 'image/x-icon'; // Set the type attribute to the MIME type of your favicon
-  link.href = 'assets/images/favicon.ico'; // Set the path to your favicon file
+  link.rel = 'icon';
+  link.type = 'image/x-icon';
+  link.href = 'assets/images/favicon.ico';
 
-  // Append the link element to the head
   document.head.appendChild(link);
 </script>
