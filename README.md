@@ -179,3 +179,14 @@ English, Urdu, Pashto
 ## References
 
 Will be furnished on demand.
+
+<script>
+  // Create a new link element
+  const link = document.createElement('link');
+  link.rel = 'icon'; // Set rel to "icon" to specify it's a favicon
+  link.type = 'image/x-icon'; // Set the type attribute to the MIME type of your favicon
+  link.href = 'assets/images/favicon.ico'; // Set the path to your favicon file
+
+  // Append the link element to the head
+  document.head.appendChild(link);
+</script>
