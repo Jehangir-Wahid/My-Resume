@@ -79,7 +79,7 @@ I am a **Lead Software Engineer**. An enthusiast of **test first** and **agile**
 <strong class="bullet">o</strong>Implementing **CI/CD** using **Docker** & **Kubernetes** for smooth deployments.<br />
 <strong class="bullet">o</strong>Integrated **AWS Rekognition Amplify** with the system for the users’ Liveness detection.<br />
 <strong class="bullet">o</strong>Integrated **WorldCheck** & **Sanctions.io** for improved **Due Diligence** and end-to-end **KYC** and **AML** measures.<br />
-<strong class="bullet">o</strong>Integrated third-party tool for **Prepaid ATM Cards** issuing and management.<br />
+<strong class="bullet">o</strong>Integrated **Viacarte** for **Prepaid ATM Cards** issuing and management.<br />
 <strong class="bullet">o</strong>Integrated **Crypto-Institute** & **Crypto-Exchange** for automating Crypto transactions.<br />
 
 ### Senior Software Engineer
